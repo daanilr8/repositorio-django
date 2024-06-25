@@ -10,11 +10,28 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.0/ref/settings/
 """
 
+from dotenv import load_dotenv,find_dotenv
 from pathlib import Path
 import os
 import openai
 
-openai.api_key="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"
+# Intentar encontrar el archivo .env y cargar las variables de entorno
+env_path = 'D:/supra/Documents/keyOpenAI'
+if env_path == "":
+    raise FileNotFoundError("No se encontró el archivo .env. Asegúrate de que está en el mismo directorio que el script.")
+
+print(f"Archivo .env encontrado en: {env_path}")
+
+# Cargar las variables de entorno del archivo .env
+load_dotenv()
+
+api_key = os.getenv('OPENAI_API_KEY')
+
+# Verificar si la API key se ha cargado correctamente
+if api_key is None:
+    raise ValueError("La API key no se ha encontrado. Asegúrate de que el archivo .env contiene la clave correcta.")
+
+openai.api_key=api_key
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent

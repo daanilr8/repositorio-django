@@ -8,7 +8,6 @@ import json
 import datetime
 import openai
 
-openai.api_key = "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"
 
 # Create your views here.
 

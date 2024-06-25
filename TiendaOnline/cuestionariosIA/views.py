@@ -9,7 +9,6 @@ import unicodedata
 import random
 
 # Create your views here.
-
 def inicio(request):
 
   return redirect('vista_seleccionar_jugador',error_contraseña=False,error_crear=False)
