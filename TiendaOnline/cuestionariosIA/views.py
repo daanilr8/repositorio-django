@@ -224,7 +224,6 @@ def remover_tildes(texto):
     # Normaliza el texto a su forma "NFD" (Normalization Form Decomposition)
     # Esto separa los caracteres base de los acentos
     texto_normalizado = unicodedata.normalize('NFD', texto)
-    print(texto)
     # Filtra los caracteres que no son "Mark" (es decir, los acentos)
     texto_sin_tildes = ''.join(c for c in texto_normalizado if unicodedata.category(c) != 'Mn')
     return texto_sin_tildes
