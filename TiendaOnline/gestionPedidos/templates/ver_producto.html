@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Descripción</title>
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+        .container {
+            display: flex;
+            flex: 1;
+        }
+        .left {
+            width: 30%;
+            height: 90vh;
+            background-color: lightblue;
+        }
+        .left img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        .right {
+            width: 70%;
+            height: 90vh;
+            display: flex;
+            flex-direction: column;
+        }
+        .right > div {
+            flex: 1;
+            border: 1px solid black;
+            padding: 10px;
+        }
+        .uno {
+            text-align: center;
+            background-color: rgb(93, 198, 93);
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .uno > p {
+            text-align: center;
+            color: white;
+        }
+        .dos  {
+            display: flex;
+            background-color:rgb(25, 55, 25);
+        }
+        .cajados {
+            margin: 5px;
+            text-align: center;
+        }
+        .cajados > p {
+            color: #ffffff
+        }
+        .cajados > button {
+            color:green;
+        }
+        .footer {
+            height: 10vh;
+            background-color: white;
+            text-align: center;
+            line-height: 10vh; /* Centra el texto verticalmente */
+        }
+        .tres {
+            text-align: center;
+            background-color: rgb(31, 204, 31);
+        }
+        .clearfix{
+            clear:both;
+       } 
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="left">
+            <img src="{{articulo.imagen.url}}" alt="Imagen">
+        </div>
+        <div class="right">
+            <div class="uno">
+                <strong>Descripción</strong>
+                <p>{{articulo.descripcion}}</p>
+            </div>
+
+            <div class = "dos">
+                <div class="cajados">
+                    <strong>Fertilizante</strong>
+                    <p>{{articulo.fertilizante}}</p>
+                </div>
+                <div class="cajados">
+                    <strong>Riego</strong>
+                    <p>{{articulo.riego}}</p>
+                </div>
+            </div>
+
+            <div class="tres">
+                <strong>Disponibilidad</strong>
+                <form action = "/comprar/" method = "GET">
+                <button type="submit" name = articulo_nombre value = {{articulo.nombre}}>Comprar </button>
+            </div>
+        </div>
+    </div>
+
+    <div class="clearfix"></div>
+    <div class="footer">
+       Daniel Lechuga Ruiz 2024
+    </div>
+</body>
+</html>
+

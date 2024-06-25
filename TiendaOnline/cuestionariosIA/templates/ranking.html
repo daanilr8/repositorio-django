@@ -1,0 +1,76 @@
+<html>
+    <title>Ranking</title>
+    <header><strong>Ranking</strong></header>
+    {% load static %}
+    <link rel="stylesheet"  href="{% static 'css/ranking.css' %}">
+    <body>
+        <div class="dificil">
+            <div>Dificil</div>
+            <div class = "podio">
+                <div class="segundo-puesto">
+                    <img src="/static/images/segundo.jpg" height="100" width="70">
+                    <div>{{jugadores_ordenados_dificil.1.0.nombre}}</div>
+                    <div>{{jugadores_ordenados_dificil.1.1}}</div>
+                </div>
+                <div class="primer-puesto">
+                    <img src="/static/images/primero.jpg" height="100" width="70">
+                    <div>{{jugadores_ordenados_dificil.0.0.nombre}}</div>
+                    <div>{{jugadores_ordenados_dificil.0.1}}</div>
+                </div>
+                <div class="tercer-puesto">
+                    <img src="/static/images/tercero.jpg" height="80" width="70">
+                    <div>{{jugadores_ordenados_dificil.2.0.nombre}}</div>
+                    <div>{{jugadores_ordenados_dificil.2.1}}</div>
+                </div>
+            </div>
+        </div>
+        <div class="intermedio">
+            <div>Intermedio</div>
+            <div class = "podio">
+                <div class="segundo-puesto">
+                    <img src="/static/images/segundo.jpg" height="100" width="70">
+                    <div>{{jugadores_ordenados_intermedio.1.0.nombre}}</div>
+                    <div>{{jugadores_ordenados_intermedio.1.1}}</div>
+                </div>
+                <div class="primer-puesto">
+                    <img src="/static/images/primero.jpg" height="100" width="70">
+                    <div>{{jugadores_ordenados_intermedio.0.0.nombre}}</div>
+                    <div>{{jugadores_ordenados_intermedio.0.1}}</div>
+                </div>
+                <div class="tercer-puesto">
+                    <img src="/static/images/tercero.jpg" height="80" width="70">
+                    <div>{{jugadores_ordenados_intermedio.2.0.nombre}}</div>
+                    <div>{{jugadores_ordenados_intermedio.2.1}}</div>
+                </div>
+            </div>
+        </div>
+        <div class="facil">
+            <div>Facil</div>
+            <div class = "podio">
+                <div class="segundo-puesto">
+                    <img src="/static/images/segundo.jpg" height="100" width="70">
+                    <div>{{jugadores_ordenados_facil.1.0.nombre}}</div>
+                    <div>{{jugadores_ordenados_facil.1.1}}</div>
+                </div>
+                <div class="primer-puesto">
+                    <img src="/static/images/primero.jpg" height="100" width="70">
+                    <div>{{jugadores_ordenados_facil.0.0.nombre}}</div>
+                    <div>{{jugadores_ordenados_facil.0.1}}</div>
+                </div>
+                <div class="tercer-puesto">
+                    <img src="/static/images/tercero.jpg" height="80" width="70">
+                    <div>{{jugadores_ordenados_facil.2.0.nombre}}</div>
+                    <div>{{jugadores_ordenados_facil.2.1}}</div>
+                </div>
+            </div>
+    </body>
+    <div class="spacer"></div>
+    <footer>
+        <form action="/cuestiones/" method="GET">
+            <button type="submit">Cambiar cuenta</button>
+        </form>
+        <form action="/cuestionario/" method="GET">
+            <button type="submit">Volver a jugar</button>
+        </form>
+    </footer>
+</html>

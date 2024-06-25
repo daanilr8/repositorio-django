@@ -1,0 +1,50 @@
+{% load custom_tags %}
+<html>
+    <title>Bienvenido al cuestionario</title>
+    <header>
+        <strong>Bienvenido al cuestionario </strong>
+    </header>
+
+    <style>
+        .tick {
+            color: green;
+        }
+        .cross {
+            color: red;
+        }
+    </style>
+    <body>
+        <form action="/mostrar_resultado/" method="GET">
+        {%for key,cuestion in cuestionario.items%}
+        <div class="pregunta">
+            <p><strong>{{cuestion.pregunta}}</strong></p>
+            {%for opcion in cuestion.opciones%}
+                <div class="opcion">
+                {%if corregir%}
+                    {%if opcion == cuestion.respuesta_correcta and opcion == respuestas_marcadas|get_item:forloop.parentloop.counter0 %}
+                        <p><span class="tick">&#10003;</span> {{opcion}}</p>
+                    {%elif opcion == cuestion.respuesta_correcta %}
+                        <p><span class="tick">&#10003;</span> {{opcion}}</p>
+                    {%elif opcion == respuestas_marcadas|get_item:forloop.parentloop.counter0%}
+                        <p><span class="cross">&#10007;</span> {{opcion}} </p>
+                    {%else%}
+                        <p>{{opcion}}</p>
+                    {%endif%}
+                {%else%}
+                    <label>
+                        <input type="checkbox" name="pregunta{{forloop.parentloop.counter0}}" value="{{opcion}}">{{opcion}}
+                    </label>
+                {%endif%}
+                </div>
+            {%endfor%}
+        {%endfor%}
+        </div>
+        <button type="submit">Terminar</button>
+        </form>
+        {%if corregir%}
+        <form action ="/cuestionario/" method="GET">
+            <button type="submit">Inicio</button>
+        </form>
+        {%endif%}
+    </body>
+</html>

@@ -1,0 +1,23 @@
+<html>
+
+<body>
+
+
+    <p> Estás buscando : <strong> {{query}} </strong></p>
+        {%if articulos %}
+        <p> Articulos encontrados : {{articulos|length}} articulos </p>
+
+        <ul>
+            {% for articulo in articulos %}
+            <li> {{articulo.nombre}} </li>
+            {%endfor%}
+        </ul>
+        {%else%}
+        <p> Tu producto no ha sido encontrado</p>
+        {%endif%}
+
+        
+        <button type="button" onclick="window.location.href='http://127.0.0.1:8000/busqueda_productos/'">Volver</button>
+
+</body>
+</html>

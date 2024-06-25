@@ -1,0 +1,84 @@
+{% load static %}
+<!DOCTYPE html> 
+<html>
+
+
+<head>
+    <meta charset="utf-8" />
+    <title> Productos disponibles</title>
+    <link rel="stylesheet" href="estilos.css"/>
+
+    <style>
+        header {
+            background-color: rgb(32, 178, 95);
+            font-family:Arial, Helvetica, sans-serif;
+            text-align: center;
+        }
+        body {
+            background-color: lightgreen;
+            font-family:Arial, Helvetica, sans-serif
+
+        }
+       .clearfix{
+            clear:both;
+       } 
+       .flex-container {
+            display: flex;
+
+       }
+       .caja {
+        margin:20px;
+
+       }
+
+
+    </style>
+
+</head>
+
+
+
+<body>
+
+    <div id = "container">
+
+        <header>
+            <h1> Productos disponibles </h1>
+        </header>
+    </div>
+
+
+
+    <section class="flex-container">
+    {% for articulo in articulos %}
+    <div class="caja">
+        <strong>{{articulo.nombre}}</strong>
+            <form action = "/ver_producto/" method = "GET">
+            <button type="submit" name = articulo_nombre value = {{articulo.nombre}}>
+                {%if articulo.imagen %}
+                <img src = {{articulo.imagen.url}} height="100" width="100">
+                {%else%}
+                <img src = "" height="100" width="100">
+                {%endif%}
+            </form>
+    </div>
+    {% endfor %}
+    </section>
+
+
+    <div id="pregunta">
+        <h1> ¿Tienes alguna pregunta?</h1>
+        <form action = "/home/" method ="GET">
+            <p><textarea name= "mensaje" rows="3" cols="50"></textarea></p>
+            <input type = "submit" value = "Enviar">
+            {%if pregunta%}
+            <p><h1>La respuesta es :</h1> {{respuesta}} </p>
+            <button type="button" onclick="window.location.href='http://127.0.0.1:8000/home/'">Borrar respuesta</button>
+            {%endif%}
+        </form>
+    </div>
+</body>
+
+
+
+</html>

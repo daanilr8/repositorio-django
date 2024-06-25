@@ -1,0 +1,95 @@
+    /* Estilos para el header */
+header {
+    background-color: black; /* Fondo negro */
+    color: white; /* Color de texto rojo */
+    text-align: center; /* Texto centrado */
+    font-size: 48px; /* Tamaño de fuente grande */
+    font-weight: bold; /* Texto en negrita */
+    text-transform: uppercase; /* Convertir texto a mayúsculas */
+    position: relative; /* Posición relativa para elementos absolutos */
+    height: 10vh; /* Altura del 20% de la pantalla vertical */
+    width: 100%; /* Ancho completo */
+    overflow: hidden; /* Oculta el desbordamiento de los elementos absolutos */
+    background-image: url('/static/images/volcan_negro.jpg'); /* Imagen de fondo de los volcanes */
+    background-size: auto 90%;
+    background-repeat: repeat-x; /* Repetir la imagen horizontalmente */
+    display: flex; /* Activar el modelo de caja flexible */
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Centrar verticalmente */
+    border:2px solid white;
+}
+
+/* Animación de fuego */
+@keyframes fuego {
+    from { color: red; }
+    to { color: orange; }
+}
+body {
+    background-color: black;
+}
+.podio {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+.dificil {
+    font-size: 18px; /* Tamaño de fuente */
+    text-align: center; /* Alineación del texto */
+    font-family: Arial, sans-serif; /* Fuente del texto */
+    height: 25vh;
+    text-align:center;
+    color: white;
+    border:2px solid white;
+}
+.intermedio {
+    font-size: 18px; /* Tamaño de fuente */
+    text-align: center; /* Alineación del texto */
+    font-family: Arial, sans-serif; /* Fuente del texto */
+    height: 25vh;
+    text-align: center;
+    color:white;
+    border:2px solid white;
+}
+.facil {
+    font-size: 18px; /* Tamaño de fuente */
+    text-align: center; /* Alineación del texto */
+    font-family: Arial, sans-serif; /* Fuente del texto */
+    height: 25vh;
+    text-align:center;
+    color:white;
+    border:2px solid white;
+}
+.primer-puesto {
+    animation: fuego 1s infinite alternate;
+}
+.spacer{
+    flex-grow:1;
+}
+/* Estilos para el footer */
+footer {
+    margin-top:20px;
+    display: flex; /* Utiliza flexbox para el diseño */
+    justify-content: center; /* Centra los formularios horizontalmente */
+    align-items: center; /* Centra los elementos verticalmente */
+    gap: 20px; /* Espacio entre los formularios */
+    padding: 10px; /* Relleno alrededor del footer */
+}
+
+/* Estilos para los botones */
+button {
+    padding: 10px 20px; /* Relleno interno del botón */
+    background-color: gray; /* Color de fondo verde */
+    color: white; /* Color del texto */
+    border: none; /* Sin borde */
+    text-align: center; /* Alineación del texto */
+    text-decoration: none; /* Sin decoración de texto */
+    display: inline-block; /* Mostrar como bloque en línea */
+    font-size: 16px; /* Tamaño de la fuente */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+}
+
+/* Opcional: estilos para los formularios */
+form {
+    margin: 0; /* Eliminar margen predeterminado de los formularios */
+}
+

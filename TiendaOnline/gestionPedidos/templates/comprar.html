@@ -1,0 +1,21 @@
+<html>
+
+<body>
+    {%if articulo.cantidad == 0%}
+
+    <p> Tu articulo no está disponible </p>
+
+    {%else %}
+
+    <p> Tu articulo está disponible </p>`
+    <form action = "/confirmacion/" method = GET>
+        <input type="hidden" name = articulo_nombre value = {{articulo.nombre}}>
+        <button type="submit"> Confirmar pedido </button>
+    </form>
+    <button type="button" onclick="window.location.href='http://127.0.0.1:8000/home/'">Volver</button>
+
+    {%endif%}
+</body>
+
+
+</html>

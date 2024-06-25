@@ -1,0 +1,147 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    overflow: hidden; /* Para asegurarnos de que no haya desbordamiento */
+}
+
+header {
+    width: 100%;
+    height: 20vh;
+    background: linear-gradient(135deg, #ff0000, #00ff00, #0000ff, #ffff00, #ff00ff, #00ffff);
+    background-size: 600% 600%;
+    animation: psicodelico 10s infinite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    perspective: 1000px; /* Perspectiva para efectos 3D */
+}
+
+header h1 {
+    font-family: Arial, sans-serif;
+    font-size: 3em;
+    animation: titleAnimation 10s infinite;
+    transform-style: preserve-3d; /* Estilo de transformación 3D */
+}
+
+@keyframes psicodelico {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+@keyframes titleAnimation {
+    0% {
+        transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg) translateZ(0);
+        color: white;
+    }
+    25% {
+        transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg) translateZ(100px);
+        color: white; /* Blanco */
+    }
+    50% {
+        transform: rotateX(720deg) rotateY(720deg) rotateZ(720deg) translateZ(200px);
+        color: white; /* Blanco */
+    }
+    75% {
+        transform: rotateX(1080deg) rotateY(1080deg) rotateZ(1080deg) translateZ(300px);
+        color: white; /* Blanco */
+    }
+    100% {
+        transform: rotateX(1440deg) rotateY(1440deg) rotateZ(1440deg) translateZ(400px);
+        color: white; /* Blanco */
+    }
+}
+
+.filosofia, .psicologia, .astrologia ,.añadir-topic{
+    height: 20vh; /* Cambiamos la altura a 20% */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+.filosofia {
+    background-color: #00ff00; /* Verde */
+}
+
+.psicologia {
+    background-color: #8a2be2; /* Violeta */
+}
+
+.astrologia {
+    background-color: #e66210; /* Púrpura */
+}
+
+.filosofia .title, .psicologia .title, .astrologia .title, .añadir-topic .title {
+    font-size: 2em;
+    font-weight: bold;
+    color: white; /* Blanco */
+}
+
+.filosofia .botones, .psicologia .botones, .astrologia .botones, .añadir-topic .botones {
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.filosofia .botones form, .psicologia .botones form, .astrologia .botones form, .añadir-topic .botones form {
+    display: flex;
+}
+
+.filosofia .botones button, .psicologia .botones button, .astrologia .botones button, .añadir-topic .botones button {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    background-color: black;
+    color: white; /* Blanco */
+    border: none;
+    margin-left: 10px;
+}
+
+.añadir-topic{
+    height:10vh;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:rgb(97, 17, 69);
+    padding: 0px 20px;
+    border-bottom: 1px solid #ddd;
+}
+.custom-select {
+    width: 100%; /* Ajusta el ancho del select */
+    padding: 10px; /* Espacio interno */
+    border: 1px solid #ccc; /* Borde del select */
+    border-radius: 4px; /* Bordes redondeados */
+    background-color: #fff; /* Color de fondo */
+    color: #333; /* Color del texto */
+    font-size: 16px; /* Tamaño de fuente */
+}
+.tercera-seccion {
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray; /* Fondo gris para la tercera sección */
+}
+
+.tercera-seccion form {
+    display: flex;
+    height: 10vh;
+}
+.tercera-seccion select {
+    padding: 10px;
+    font-size: 1em;
+}
+
+.tercera-seccion button {
+    padding: 10px 20px;
+    margin-left:5px;
+    font-size: 1em;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border:1px solid white;
+}

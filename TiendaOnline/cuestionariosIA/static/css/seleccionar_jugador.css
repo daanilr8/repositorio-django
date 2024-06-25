@@ -1,0 +1,36 @@
+/* Asegúrate de enlazar este archivo CSS en el head de tu HTML */
+body {
+    font-family: Arial, sans-serif;
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    font-size: 24px;
+    margin: 20px 0;
+}
+
+main {
+    display: flex;
+    justify-content: center; /* Ajusta la alineación de los elementos hijos */
+    gap: 40px; /* Controla la separación entre las secciones */
+    margin: 0 20px;
+}
+footer{
+    text-align: center;
+}
+
+.seleccionar, .crear_jugador {
+    flex: 0 1 300px; /* Ajusta el tamaño de las secciones */
+    padding: 10px;
+}
+
+.seleccionar {
+    text-align: left;
+}
+
+.crear_jugador {
+    text-align: right;
+}

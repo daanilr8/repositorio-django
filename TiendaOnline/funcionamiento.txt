@@ -1,0 +1,2458 @@
+hay URLhttps://oaidalleapiprodscus.blob.core.windows.net/private/org-HoMprsi8tfJSiqFIzgU3zH8s/user-H4XQnaSNcVHuvId06S2LIxy0/img-slgJp8aTMGjlas2blqpnGdH3.png?st=2024-06-17T19%3A19%3A40Z&se=2024-06-17T21%3A19%3A40Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-06-17T16%3A03%3A33Z&ske=2024-06-18T16%3A03%3A33Z&sks=b&skv=2023-11-03&sig=0FN4YJjvKLe0U3iO7Wdjf5jO4mSgTHE%2B0bCYYHHsA6Q%3Dhay URLhttps://oaidalleapiprodscus.blob.core.windows.net/private/org-HoMprsi8tfJSiqFIzgU3zH8s/user-H4XQnaSNcVHuvId06S2LIxy0/img-PMM99UZNrOHe4eFuNzpx5JSR.png?st=2024-06-17T19%3A20%3A38Z&se=2024-06-17T21%3A20%3A38Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-06-17T19%3A45%3A25Z&ske=2024-06-18T19%3A45%3A25Z&sks=b&skv=2023-11-03&sig=0taJIaCgeUuMmhBIG/9tOGx/O9SuatY4nNwudtlqRUc%3Dhay URLhttps://oaidalleapiprodscus.blob.core.windows.net/private/org-HoMprsi8tfJSiqFIzgU3zH8s/user-H4XQnaSNcVHuvId06S2LIxy0/img-4pvdbJycXN35PsnFIY44b6mK.png?st=2024-06-18T14%3A26%3A57Z&se=2024-06-18T16%3A26%3A57Z&sp=r&sv=2023-11-03&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-06-17T20%3A29%3A05Z&ske=2024-06-18T20%3A29%3A05Z&sks=b&skv=2023-11-03&sig=qrDV3GJVaGB/Bq1SbMIP7Mg0PsDZiQYibqe25uheBLE%3D
+{
+  "preguntas": [
+    {
+      "pregunta": "Según el Budismo, ¿cuál es el camino que lleva a la liberación del sufrimiento?",
+      "opciones": ["Dharma", "Karma", "Nirvana", "Samsara"],
+      "respuesta_correcta": "Nirvana",
+      "dificultad": "Difícil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Cuál es el concepto central en la teoría de las Ideas de Platón?",
+      "opciones": ["Doxa", "Apeiron", "Élan vital", "Eidos"],
+      "respuesta_correcta": "Eidos",
+      "dificultad": "Difícil",
+      "topic": "Platón"
+    },
+    {
+      "pregunta": "En terapia cognitivo-conductual, ¿qué técnica se utiliza para cambiar pensamientos negativos?",
+      "opciones": ["Meditación", "Exposición", "Reestructuración cognitiva", "Técnica de aversión"],
+      "respuesta_correcta": "Reestructuración cognitiva",
+      "dificultad": "Difícil",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "¿Quién es considerado el padre del psicoanálisis?",
+      "opciones": ["Erik Erikson", "Carl Rogers", "Sigmund Freud", "Albert Bandura"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Difícil",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Qué concepto del humanismo se centra en la autorrealización y el despliegue de la propia individualidad?",
+      "opciones": ["Self-actualization", "Arquetipo", "Inconsciente colectivo", "Amor incondicional"],
+      "respuesta_correcta": "Self-actualization",
+      "dificultad": "Difícil",
+      "topic": "Humanismo"
+    },
+    {
+      "pregunta": "En la psicología transpersonal, ¿qué nociones se exploran más allá de la identidad individual?",
+      "opciones": ["Autoeficacia", "Resiliencia", "Consciencia colectiva", "Conciencia trascendental"],
+      "respuesta_correcta": "Conciencia trascendental",
+      "dificultad": "Difícil",
+      "topic": "Transpersonal"
+    },
+    {
+      "pregunta": "¿Qué carta del tarot representa la transformación y el renacimiento?",
+      "opciones": ["La Torre", "La Luna", "La Estrella", "El Juicio"],
+      "respuesta_correcta": "El Juicio",
+      "dificultad": "Difícil",
+      "topic": "Tarot"
+    }
+  ]
+}{
+    "preguntas": [
+        {
+            "pregunta": "¿Cuál es el objetivo final del budismo?",
+            "opciones": ["Llegar al cielo", "Reencarnar en una vida mejor", "Obtener riquezas", "Nirvana"],
+            "respuesta_correcta": "Nirvana",
+            "dificultad": "Dificil",
+            "topic": "Budismo"
+        },
+        {
+            "pregunta": "¿Quién es el dios creador en el hinduismo?",
+            "opciones": ["Vishnu", "Krishna", "Shiva", "Brahma"],
+            "respuesta_correcta": "Brahma",
+            "dificultad": "Dificil",
+            "topic": "Hinduismo"
+        },
+        {
+            "pregunta": "¿Qué obra es considerada el diálogo central de Platón?",
+            "opciones": ["La República", "Fedón", "Apología de Sócrates", "Crátilo"],
+            "respuesta_correcta": "La República",
+            "dificultad": "Dificil",
+            "topic": "Platón"
+        },
+        {
+            "pregunta": "La terapia cognitivo conductual se centra principalmente en:",
+            "opciones": ["Los pensamientos inconscientes", "Las emociones", "El comportamiento y los procesos cognitivos", "La interpretación de los sueños"],
+            "respuesta_correcta": "El comportamiento y los procesos cognitivos",
+            "dificultad": "Dificil",
+            "topic": "Cognitivo-conductual"
+        },
+        {
+            "pregunta": "¿Quién es el iniciador del psicoanálisis?",
+            "opciones": ["Carl Jung", "Sigmund Freud", "Alfred Adler", "Erik Erikson"],
+            "respuesta_correcta": "Sigmund Freud",
+            "dificultad": "Dificil",
+            "topic": "Psicoanálisis"
+        },
+        {
+            "pregunta": "¿Quién es considerado el padre del humanismo?",
+            "opciones": ["Carl Rogers", "Abraham Maslow", "Rollo May", "Erich Fromm"],
+            "respuesta_correcta": "Carl Rogers",
+            "dificultad": "Dificil",
+            "topic": "Humanismo"
+        },
+        {
+            "pregunta": "¿En qué se centra la terapia sistémica?",
+            "opciones": ["En el individuo", "En la familia", "En las emociones", "En los conflictos internos"],
+            "respuesta_correcta": "En la familia",
+            "dificultad": "Dificil",
+            "topic": "Sistémica"
+        },
+        {
+            "pregunta": "¿Cuál es el primer signo zodiacal del zodiaco?",
+            "opciones": ["Piscis", "Aries", "Acuario", "Capricornio"],
+            "respuesta_correcta": "Aries",
+            "dificultad": "Dificil",
+            "topic": "Signos Zodiacales"
+        },
+        {
+            "pregunta": "En el Tarot Rider Waite, ¿qué número es La Torre?",
+            "opciones": ["13", "16", "18", "10"],
+            "respuesta_correcta": "16",
+            "dificultad": "Dificil",
+            "topic": "Tarot"
+        }
+    ]
+}{
+    "preguntas": [
+        {
+            "pregunta": "¿Quién fundó el Budismo?",
+            "opciones": ["Jesucristo", "Nietzsche", "Gautama Buddha", "Carl Jung"],
+            "respuesta_correcta": "Gautama Buddha",
+            "dificultad": "Intermedio",
+            "topic": "Budismo"
+        },
+        {
+            "pregunta": "¿Qué es la trinidad en el Cristianismo?",
+            "opciones": ["Padre, Hijo y Espíritu Santo", "Buda, Dharma, Sangha", "Freud, Jung, Adler", "Fuerza, Sabiduría, Amor"],
+            "respuesta_correcta": "Padre, Hijo y Espíritu Santo",
+            "dificultad": "Intermedio",
+            "topic": "Cristianismo"
+        },
+        {
+            "pregunta": "¿Cuál es una famosa cita atribuida a Nietzsche?",
+            "opciones": ["Dios está muerto", "El inconsciente es el verdadero psíquico", "Hombre superior", "El desapego es la clave para la iluminación"],
+            "respuesta_correcta": "Dios está muerto",
+            "dificultad": "Intermedio",
+            "topic": "Nietzsche"
+        },
+        {
+            "pregunta": "¿Cuál es el enfoque de la terapia cognitivo-conductual?",
+            "opciones": ["En el inconsciente", "En la espiritualidad ", "En comportamientos y pensamientos", "En la interacción familiar"],
+            "respuesta_correcta": "En comportamientos y pensamientos",
+            "dificultad": "Intermedio",
+            "topic": "Cognitivo-conductual"
+        },
+        {
+            "pregunta": "¿Quién es considerado el padre del Psicoanálisis?",
+            "opciones": ["Buda", "Sigmund Freud", "Nietzsche", "Carl Rogers"],
+            "respuesta_correcta": "Sigmund Freud",
+            "dificultad": "Intermedio",
+            "topic": "Psicoanálisis"
+        },
+        {
+            "pregunta": "¿El enfoque humanista se centra en qué aspecto?",
+            "opciones": ["El inconsciente", "Asserting masculine will", "La autorrealizacion personal", "Los problemas de pensamiento"],
+            "respuesta_correcta": "La autorrealizacion personal",
+            "dificultad": "Intermedio",
+            "topic": "Humanismo"
+        },
+        {
+            "pregunta": "¿La terapia sistémica se enfoca en qué aspecto?",
+            "opciones": ["Los pensamientos individuales", "La dinámica de la relación familiar", "La autorrealización", "La relación con Dios"],
+            "respuesta_correcta": "La dinámica de la relación familiar",
+            "dificultad": "Intermedio",
+            "topic": "Sistémica"
+        },
+        {
+            "pregunta": "¿Qué terapia se enfoca en la espiritualidad?",
+            "opciones": ["Cognitivo-conductual", "Psicoanálisis", "Humanismo", "Transpersonal"],
+            "respuesta_correcta": "Transpersonal",
+            "dificultad": "Intermedio",
+            "topic": "Transpersonal"
+        },
+        {
+            "pregunta": "¿Cuántas cartas hay en un mazo de tarot?",
+            "opciones": ["52", "78", "120", "108"],
+            "respuesta_correcta": "78",
+            "dificultad": "Intermedio",
+            "topic": "Tarot"
+        }
+    ]
+}{
+"preguntas":[
+  {
+    "pregunta":"¿Quién fundó el Budismo?",
+    "opciones":["Gautama Siddhartha", "Viruddhaka", "Ashoka", "Dharmakirti"],
+    "respuesta_correcta":"Gautama Siddhartha",
+    "dificultad":"Dificil",
+    "topic":"Budismo"
+  },
+  {
+    "pregunta":"¿Cuál es el texto sagrado más importante del hinduismo?",
+    "opciones":["La Biblia", "Ramayana", "Qur'an", "Vedas"],
+    "respuesta_correcta":"Vedas",
+    "dificultad":"Dificil",
+    "topic":"Hinduismo"
+  },
+  {
+    "pregunta":"¿Cuál es la principal enseñanza en las parábolas de Jesús?",
+    "opciones":["El juicio final", "La bondad", "El Reino de Dios", "El sacrificio"],
+    "respuesta_correcta":"El Reino de Dios",
+    "dificultad":"Dificil",
+    "topic":"Cristianismo"
+  },
+  {
+    "pregunta":"¿Quién es un exponente de la terapia cognitivo-conductual?",
+    "opciones":["Sigmund Freud", "Carl Rogers", "Aaron Beck", "Alfred Adler"],
+    "respuesta_correcta":"Aaron Beck",
+    "dificultad":"Dificil",
+    "topic":"Cognitivo-conductual"
+  },
+  {
+    "pregunta":"¿Cuál es una idea central del psicoanálisis?",
+    "opciones":["Pensamiento positivo", "Pensamiento simbólico", "Inconsciente", "Introspección"],
+    "respuesta_correcta":"Inconsciente",
+    "dificultad":"Dificil",
+    "topic":"Psicoanálisis"
+  },
+  {
+    "pregunta":"¿Qué se busca en la psicoterapia humanista?",
+    "opciones":["Eliminar síntomas", "Promover percepciones distorsionadas", "Desarrollar el potencial humano", "Evitar conflictos"],
+    "respuesta_correcta":"Desarrollar el potencial humano",
+    "dificultad":"Dificil",
+    "topic":"Humanismo"
+  },
+  {
+    "pregunta":"¿Qué tipo de familia es el principal foco de la psicoterapia sistémica?",
+    "opciones":["La familia nuclear", "La familia extendida", "La familia disfuncional", "Todas las familias"],
+    "respuesta_correcta":"Todas las familias",
+    "dificultad":"Dificil",
+    "topic":"Sistémica"
+  },
+  {
+    "pregunta":"¿Qué representa la carta del Ermitaño en el Tarot?",
+    "opciones":["Derrota", "Sabiduría interna", "Triunfo", "Desesperación"],
+    "respuesta_correcta":"Sabiduría interna",
+    "dificultad":"Dificil",
+    "topic":"Tarot"
+  }
+]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Quién es considerado el fundador del budismo?",
+      "opciones": ["Mahavira", "Jesus", "Buda Gautama", "Aristóteles"],
+      "respuesta_correcta": "Buda Gautama",
+      "dificultad": "Dificil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Qué concepto fundamental del hinduismo representa la realidad última del universo?",
+      "opciones": ["Karma", "Dharma", "Moksha", "Brahman"],
+      "respuesta_correcta": "Brahman",
+      "dificultad": "Dificil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Qué concilio confirmó la doble naturaleza de Cristo, humana y divina?",
+      "opciones": ["Nicea I", "Calcedonia", "Trento", "Vaticano II"],
+      "respuesta_correcta": "Calcedonia",
+      "dificultad": "Dificil",
+      "topic": "Cristianismo"
+    },
+    {
+      "pregunta": "¿Quiénes son los principales representantes de la terapia cognitivo-conductual?",
+      "opciones": ["Freud y Jung", "Rogers y Maslow", "Albert Ellis y Aaron Beck", "Minuchin y Haley"],
+      "respuesta_correcta": "Albert Ellis y Aaron Beck",
+      "dificultad": "Dificil",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "¿Qué teoría del psicoanálisis propone que la mente humana se compone de tres partes distintas: el ello, el yo y el superyo?",
+      "opciones": ["Hipótesis general", "Teoría de las relaciones objeto", "Modelo estructural", "Teoría de la transferencia"],
+      "respuesta_correcta": "Modelo estructural",
+      "dificultad": "Dificil",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Quién es considerado el padre del enfoque humanista en psicología?",
+      "opciones": ["Carl Rogers", "Freud", "Piaget", "Abraham Maslow"],
+      "respuesta_correcta": "Abraham Maslow",
+      "dificultad": "Dificil",
+      "topic": "Humanismo"
+    },
+    {
+      "pregunta": "¿Qué enfoque terapéutico se enfoca en las interacciones y la comunicación dentro de la familia?",
+      "opciones": ["Terapia Gestalt", "Psicoanálisis", "Terapia cognitivo conductual", "Terapia sistémica"],
+      "respuesta_correcta": "Terapia sistémica",
+      "dificultad": "Dificil",
+      "topic": "Sistémica"
+    },
+    {
+      "pregunta": "¿Qué arcano mayor del Tarot representa la intuición y el inconsciente?",
+      "opciones": ["La Muerte", "El Mundo", "La Torre", "La Sacerdotisa"],
+      "respuesta_correcta": "La Sacerdotisa",
+      "dificultad": "Dificil",
+      "topic": "Tarot"
+    }
+  ]
+}{
+    "preguntas":[
+        {
+            "pregunta": "¿Cuál es uno de los textos más antiguos y sagrados del hinduismo?",
+            "opciones": ["Bhagavad Gita", "Torá", "Biblia", "Corán"],
+            "respuesta_correcta": "Bhagavad Gita",
+            "dificultad": "Difícil",
+            "topic": "Hinduismo"
+        },
+        {
+            "pregunta": "¿Quién es considerado el fundador del psicoanálisis?",
+            "opciones": ["Sigmund Freud", "Carl Jung", "Albert Ellis", "Aaron Beck"],
+            "respuesta_correcta": "Sigmund Freud",
+            "dificultad": "Difícil",
+            "topic": "Psicoanálisis"
+        },
+        {
+            "pregunta": "¿Cuál es uno de los principios fundamentales en el budismo que se refiere al sufrimiento inherente a la existencia?",
+            "opciones": ["Karma", "Dharma", "Nirvana", "Dukkha"],
+            "respuesta_correcta": "Dukkha",
+            "dificultad": "Difícil",
+            "topic": "Budismo"
+        },
+        {
+            "pregunta": "¿Qué figura importante del humanismo renacentista escribió la obra 'El príncipe'?",
+            "opciones": ["Michel de Montaigne", "Leon Battista Alberti", "Miguel de Cervantes", "Maquiavelo"],
+            "respuesta_correcta": "Maquiavelo",
+            "dificultad": "Difícil",
+            "topic": "Humanismo"
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes cartas del tarot representa el renacimiento y la transformación?",
+            "opciones": ["La Torre", "El Diablo", "La Muerte", "La Estrella"],
+            "respuesta_correcta": "La Muerte",
+            "dificultad": "Difícil",
+            "topic": "Tarot"
+        },
+        {
+            "pregunta": "¿En qué evangelio se encuentra la narración de la resurrección de Jesús?",
+            "opciones": ["Mateo", "Marcos", "Lucas", "Juan"],
+            "respuesta_correcta": "Juan",
+            "dificultad": "Difícil",
+            "topic": "Cristianismo"
+        },
+        {
+            "preggunta": "¿Cuál de las siguientes técnicas es utilizada en la psicoterapia cognitivo-conductual para identificar pensamientos distorsionados?",
+            "opciones": ["Medicación", "Respiración profunda", "Reestructuración cognitiva", "Meditación"],
+            "respuesta_correcta": "Reestructuración cognitiva",
+            "dificultad": "Difícil",
+            "topic": "Cognitivo-conductual"
+        },
+        {
+            "pregunta": "¿Qué concepto se refiere al ciclo de muerte y renacimiento en el budismo?",
+            "opciones": ["Samsara", "Moksha", "Nirvana", "Karma"],
+            "respuesta_correcta": "Samsara",
+            "dificultad": "Difícil",
+            "topic": "Budismo"
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes obras es considerada la Biblia del hinduismo?",
+            "opciones": ["Rigveda", "Upanishads", "Mahabharata", "Ramayana"],
+            "respuesta_correcta": "Mahabharata",
+            "dificultad": "Difícil",
+            "topic": "Hinduismo"
+        },
+        {
+            "pregunta": "¿Qué autor católico escribió la obra 'Las confesiones'?",
+            "opciones": ["San Agustín", "San Jerónimo", "San Francisco de Asís", "Tomás de Aquino"],
+            "respuesta_correcta": "San Agustín",
+            "dificultad": "Difícil",
+            "topic": "Cristianismo"
+        }
+    ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el nombre del fundador del budismo?",
+      "opciones": ["Buda", "Gautama", "Vishnu", "Mahavira"],
+      "respuesta_correcta": "Gautama",
+      "dificultad": "Dificil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Quién es considerado el dios principal del hinduismo?",
+      "opciones": ["Brahma", "Shiva", "Vishnu", "Krishna"],
+      "respuesta_correcta": "Brahma",
+      "dificultad": "Dificil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes libros NO forma parte del Nuevo Testamento en la Biblia cristiana?",
+      "opciones": ["Apocalipsis", "Éxodo", "Mateo", "Lucas"],
+      "respuesta_correcta": "Éxodo",
+      "dificultad": "Dificil",
+      "topic": "Cristianismo"
+    },
+    {
+      "pregunta": "¿Qué psicólogo es famoso por desarrollar la terapia cognitivo-conductual?",
+      "opciones": ["Sigmund Freud", "Albert Ellis", "Carl Rogers", "Erik Erikson"],
+      "respuesta_correcta": "Albert Ellis",
+      "dificultad": "Dificil",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "¿Quién es conocido como el padre del psicoanálisis?",
+      "opciones": ["Carl Jung", "Erik Erikson", "Alfred Adler", "Sigmund Freud"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Dificil",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Cuál es el nombre del psicólogo humanista que desarrolló la teoría de la autorrealización?",
+      "opciones": ["Carl Rogers", "B. F. Skinner", "Abraham Maslow", "Erik Erikson"],
+      "respuesta_correcta": "Abraham Maslow",
+      "dificultad": "Dificil",
+      "topic": "Humanismo"
+    },
+    {
+      "preggunta": "¿Qué carta del tarot simboliza la transformación y el renacimiento?",
+      "opciones": ["El Diablo", "La Luna", "La Torre", "La Muerte"],
+      "respuesta_correcta": "La Muerte",
+      "dificultad": "Dificil",
+      "topic": "Tarot"
+    }
+  ]
+}{
+    "preguntas": [
+        {
+            "pregunta": "¿Cuál es el equivalente al karma en la religión hindú?",
+            "opciones": ["Moksha", "Samsara", "Dharma", "Brahman"],
+            "respuesta_correcta": "Dharma",
+            "dificultad": "Difícil",
+            "topic": "Hinduismo"
+        },
+        {
+            "pregunta": "¿Quién es considerado el padre del psicoanálisis?",
+            "opciones": ["Carl Jung", "B.F. Skinner", "Sigmund Freud", "Albert Bandura"],
+            "respuesta_correcta": "Sigmund Freud",
+            "dificultad": "Difícil",
+            "topic": "Psicoanálisis"
+        },
+        {
+            "pregunta": "¿Cuál es uno de los principios fundamentales del budismo?",
+            "opciones": ["Fe en un Dios único", "Creyentes en la reencarnación", "Desapego del sufrimiento", "Obediencia a la jerarquía religiosa"],
+            "respuesta_correcta": "Desapego del sufrimiento",
+            "dificultad": "Difícil",
+            "topic": "Budismo"
+        },
+        {
+            "pregunta": "¿En qué se enfoca principalmente la terapia humanista?",
+            "opciones": ["En el inconsciente", "En el comportamiento observable", "En el autoconocimiento y crecimiento personal", "En las estructuras mentales"],
+            "respuesta_correcta": "En el autoconocimiento y crecimiento personal",
+            "dificultad": "Difícil",
+            "topic": "Humanismo"
+        },
+        {
+            "pregunta": "¿Qué carta del tarot está asociada con la justicia?",
+            "opciones": ["El Mago", "La Emperatriz", "La Justicia", "El Diablo"],
+            "respuesta_correcta": "La Justicia",
+            "dificultad": "Difícil",
+            "topic": "Tarot"
+        },
+        {
+            "pregunta": "¿En qué siglo se originó el cristianismo como religión?",
+            "opciones": ["Siglo III d.C.", "Siglo I a.C.", "Siglo V d.C.", "Siglo I d.C."],
+            "respuesta_correcta": "Siglo I d.C.",
+            "dificultad": "Difícil",
+            "topic": "Cristianismo"
+        },
+        {
+            "pregunta": "¿Cuál es uno de los conceptos centrales en la terapia cognitivo-conductual?",
+            "opciones": ["Complejo de Edipo", "Refuerzo positivo", "Análisis transaccional", "La consciencia cósmica"],
+            "respuesta_correcta": "Refuerzo positivo",
+            "dificultad": "Difícil",
+            "topic": "Cognitivo-conductual"
+        },
+        {
+            "pregunta": "¿Quién es conocido por su teoría de los arquetipos en psicología?",
+            "opciones": ["Erik Erikson", "Abraham Maslow", "Carl Jung", "Ivan Pavlov"],
+            "respuesta_correcta": "Carl Jung",
+            "dificultad": "Difícil",
+            "topic": "Psicoanálisis"
+        },
+        {
+            "preggunta": "¿Cuál es uno de los pilares del budismo Mahayana?",
+            "opciones": ["Koans", "Nirvana", "La tríada budista", "Los Sutras"],
+            "respuesta_correcta": "La tríada budista",
+            "dificultad": "Difícil",
+            "topic": "Budismo"
+        },
+        {
+            "pregunta": "¿Cuál de estas deidades es considerada una de las principales en el hinduismo?",
+            "opciones": ["Vishnu", "Buda", "Jesucristo", "Allah"],
+            "respuesta_correcta": "Vishnu",
+            "dificultad": "Difícil",
+            "topic": "Hinduismo"
+        }
+    ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Quién es considerado el fundador del Budismo?",
+      "opciones": ["Buda Gautama", "Mahavira", "Confucio", "Lao-Tsé"],
+      "respuesta_correcta": "Buda Gautama",
+      "dificultad": "Dificil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Cuál es el principal texto sagrado del Hinduismo?",
+      "opciones": ["Rigveda", "Bhagavad Gita", "Upanishads", "Ramayana"],
+      "respuesta_correcta": "Bhagavad Gita",
+      "dificultad": "Dificil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿En qué concilio se establecieron los dogmas principales del Cristianismo?",
+      "opciones": ["Concilio de Nicea", "Concilio de Éfeso", "Concilio de Calcedonia", "Concilio de Trento"],
+      "respuesta_correcta": "Concilio de Nicea",
+      "dificultad": "Dificil",
+      "topic": "Cristianismo"
+    },
+    {
+      "pregunta": "¿Quién fue el creador de la terapia cognitivo-conductual?",
+      "opciones": ["Aaron Beck", "Sigmund Freud", "Carl Rogers", "Albert Ellis"],
+      "respuesta_correcta": "Aaron Beck",
+      "dificultad": "Dificil",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "preggunta": "¿Cuál es uno de los conceptos fundamentales del psicoanálisis desarrollado por Sigmund Freud?",
+      "opciones": ["Complejo de Edipo", "Autoestima positiva", "Teoría de la autorrealización", "Principio de placer"],
+      "respuesta_correcta": "Complejo de Edipo",
+      "dificultad": "Dificil",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Cuál es uno de los principios básicos del humanismo en psicología?",
+      "opciones": ["Autoeficacia", "Determinismo", "Condicionamiento clásico", "Monismo"],
+      "respuesta_correcta": "Autoeficacia",
+      "dificultad": "Dificil",
+      "topic": "Humanismo"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes cartas del tarot representa el cambio y la transformación?",
+      "opciones": ["La Muerte", "La Torre", "La Luna", "El Colgado"],
+      "respuesta_correcta": "La Muerte",
+      "dificultad": "Dificil",
+      "topic": "Tarot"
+    }
+  ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál de los cuatro nobles caminos del budismo se refiere al camino correcto de vida?",
+      "opciones": ["Samma Ditthi (Pensamiento Correcto)", "Samma Vaca (Palabra Correcta)", "Samma Kammanta (Acción Correcta)", "Samma Ajiva (Modo de Vida Correcto)"],
+      "respuesta_correcta": "Samma Ajiva (Modo de Vida Correcto)",
+      "dificultad": "Difícil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "En la religión hindú, ¿qué deidad es conocida como el dios creador del universo?",
+      "opciones": ["Vishnu", "Brahma", "Shiva", "Durga"],
+      "respuesta_correcta": "Brahma",
+      "dificultad": "Difícil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes libros no forma parte del Nuevo Testamento en la Biblia cristiana?",
+      "opciones": ["Evangelio de Mateo", "Libro de los Hechos", "Libro de Enoc", "Carta a los Romanos"],
+      "respuesta_correcta": "Libro de Enoc",
+      "dificultad": "Difícil",
+      "topic": "Cristianismo"
+    },
+    {
+      "pregunta": "¿Qué terapia cognitivo-conductual se enfoca en cambiar patrones de pensamiento negativos?",
+      "opciones": ["Terapia Gestalt", "Terapia de Aceptación y Compromiso", "Terapia Racional Emotiva Conductual", "Terapia Familiar Sistémica"],
+      "respuesta_correcta": "Terapia Racional Emotiva Conductual",
+      "dificultad": "Difícil",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "¿Quién es conocido como el padre del psicoanálisis?",
+      "opciones": ["Carl Jung", "Sigmund Freud", "Alfred Adler", "Erik Erikson"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Difícil",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Qué teoría psicológica enfatiza la importancia de la autorrealización y el potencial humano?",
+      "opciones": ["Psicología del Desarrollo", "Psicología Cognitiva", "Psicología Humanista", "Psicología Conductual"],
+      "respuesta_correcta": "Psicología Humanista",
+      "dificultad": "Difícil",
+      "topic": "Humanismo"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes cartas representaría una nueva oportunidad o un nuevo comienzo en una lectura de tarot?",
+      "opciones": ["El Diablo", "La Luna", "La Torre", "El Mundo"],
+      "respuesta_correcta": "El Mundo",
+      "dificultad": "Difícil",
+      "topic": "Tarot"
+    }
+  ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Quién fue el fundador del budismo?",
+      "opciones": ["Buda", "Confucio", "Gautama", "Krishna"],
+      "respuesta_correcta": "Gautama",
+      "dificultad": "Intermedio",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Qué dios principal se asocia con el hinduismo?",
+      "opciones": ["Brahma", "Odín", "Zeus", "Ahura Mazda"],
+      "respuesta_correcta": "Brahma",
+      "dificultad": "Intermedio",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Quién es considerado el padre del psicoanálisis?",
+      "opciones": ["Sigmund Freud", "Carl Jung", "Ivan Pavlov", "Erik Erikson"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Intermedio",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Qué corriente de la psicología se centra en el estudio de cómo las personas aprenden y se comportan?",
+      "opciones": ["Psicología Humanista", "Psicología Cognitiva", "Psicología Conductual", "Psicología Adleriana"],
+      "respuesta_correcta": "Psicología Conductual",
+      "dificultad": "Intermedio",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes no es una de las necesidades básicas según la teoría humanista de Maslow?",
+      "opciones": ["Necesidades fisiológicas", "Necesidades de seguridad", "Necesidades de poder", "Necesidades de amor y pertenencia"],
+      "respuesta_correcta": "Necesidades de poder",
+      "dificultad": "Intermedio",
+      "topic": "Humanismo"
+    },
+    {
+      "pregunta": "¿Qué carta del tarot representa el equilibrio, la justicia y la toma de decisiones objetiva?",
+      "opciones": ["El Mago", "La Rueda de la Fortuna", "La Justicia", "El Colgado"],
+      "respuesta_correcta": "La Justicia",
+      "dificultad": "Intermedio",
+      "topic": "Tarot"
+    }
+  ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Quién fue el fundador del budismo?",
+      "opciones": ["Buda", "Krishna", "Confucio", "Mahoma"],
+      "respuesta_correcta": "Buda",
+      "dificultad": "Intermedio",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿En qué país se originó el hinduismo?",
+      "opciones": ["India", "China", "Tailandia", "Japón"],
+      "respuesta_correcta": "India",
+      "dificultad": "Intermedio",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Quién es considerado el padre del psicoanálisis?",
+      "opciones": ["Carl Jung", "Sigmund Freud", "Albert Ellis", "Ivan Pavlov"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Intermedio",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Cuál es uno de los principios del humanismo?",
+      "opciones": ["Nirvana", "Reencarnación", "Individualismo", "Determinismo"],
+      "respuesta_correcta": "Individualismo",
+      "dificultad": "Intermedio",
+      "topic": "Humanismo"
+    },
+    {
+      "pregunta": "¿Qué tipo de baraja se utiliza en lecturas de tarot?",
+      "opciones": ["Poker", "Bridge", "Tarot", "Blackjack"],
+      "respuesta_correcta": "Tarot",
+      "dificultad": "Intermedio",
+      "topic": "Tarot"
+    },
+    {
+      "pregunta": "¿Cuál es uno de los pilares del budismo?",
+      "opciones": ["Karma", "Dharma", "Yoga", "Meditación"],
+      "respuesta_correcta": "Karma",
+      "dificultad": "Intermedio",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Qué simboliza el Om en el hinduismo?",
+      "opciones": ["Amor", "Universo", "Paz", "Felicidad"],
+      "respuesta_correcta": "Universo",
+      "dificultad": "Intermedio",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Quién propuso el enfoque cognitivo-conductual en psicología?",
+      "opciones": ["Burrhus Skinner", "Albert Bandura", "Aaron Beck", "Abraham Maslow"],
+      "respuesta_correcta": "Aaron Beck",
+      "dificultad": "Intermedio",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "¿Qué teoría psicológica se enfoca en la liberación de emociones reprimidas?",
+      "opciones": ["Conductismo", "Humanismo", "Psicoanálisis", "Cognitivismo"],
+      "respuesta_correcta": "Psicoanálisis",
+      "dificultad": "Intermedio",
+      "topic": "Psicoanálisis"
+    },  
+    {
+      "pregunta": "¿Cuál es el nombre del fundador del humanismo?",
+      "opciones": ["Carl Rogers", "Viktor Frankl", "Martin Seligman", "John Dewey"],
+      "respuesta_correcta": "John Dewey",
+      "dificultad": "Intermedio",
+      "topic": "Humanismo"
+    }
+  ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Quién es considerado el fundador del budismo?",
+      "opciones": ["Buda", "Mahoma", "Jesucristo", "Krishna"],
+      "respuesta_correcta": "Buda",
+      "dificultad": "Facil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Cuál es el nombre del libro sagrado del hinduismo?",
+      "opciones": ["Torá", "Bhagavad Gita", "Biblia", "Corán"],
+      "respuesta_correcta": "Bhagavad Gita",
+      "dificultad": "Facil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes terapias se enfoca en cambiar patrones de pensamiento para modificar conductas disfuncionales?",
+      "opciones": ["Psicoanálisis", "Humanismo", "Cognitivo-conductual", "Gestalt"],
+      "respuesta_correcta": "Cognitivo-conductual",
+      "dificultad": "Facil",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "¿Quién es conocido como el padre del psicoanálisis?",
+      "opciones": ["Carl Rogers", "Jean Piaget", "Sigmund Freud", "Ivan Pavlov"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Facil",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿En qué corriente psicológica se destaca la importancia del crecimiento personal y la autorrealización?",
+      "opciones": ["Conductismo", "Psicoanálisis", "Humanismo", "Cognitivismo"],
+      "respuesta_correcta": "Humanismo",
+      "dificultad": "Facil",
+      "topic": "Humanismo"
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes signos zodiacales es representado por un león?",
+      "opciones": ["Aries", "Géminis", "Leo", "Libra"],
+      "respuesta_correcta": "Leo",
+      "dificultad": "Facil",
+      "topic": "Signos Zodiacales"
+    }
+  ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es la capital de Francia?",
+      "opciones": ["Londres", "Madrid", "París", "Roma"],
+      "respuesta_correcta": "París",
+      "dificultad": "Facil",
+      "topic": "Geografía"
+    },
+    {
+      "pregunta": "¿En qué país se encuentra la Gran Muralla China?",
+      "opciones": ["India", "Japón", "China", "Rusia"],
+      "respuesta_correcta": "China",
+      "dificultad": "Facil",
+      "topic": "Historia"
+    },
+    {
+      "pregunta": "¿Cuál es el océano más grande del mundo?",
+      "opciones": ["Océano Atlántico", "Océano Pacífico", "Océano Índico", "Océano Ártico"],
+      "respuesta_correcta": "Océano Pacífico",
+      "dificultad": "Facil",
+      "topic": "Geografía"
+    },
+    {
+      "pregunta": "¿Quién escribió 'Romeo y Julieta'?",
+      "opciones": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+      "respuesta_correcta": "William Shakespeare",
+      "dificultad": "Facil",
+      "topic": "Literatura"
+    },
+    {
+      "pregunta": "¿Qué planeta es conocido como 'el planeta rojo'?",
+      "opciones": ["Marte", "Venus", "Júpiter", "Saturno"],
+      "respuesta_correcta": "Marte",
+      "dificultad": "Facil",
+      "topic": "Ciencia"
+    },
+    {
+      "pregunta": "¿Cuál es el río más largo del mundo?",
+      "opciones": ["Río Nilo", "Río Amazonas", "Río Yangtsé", "Río Misisipi"],
+      "respuesta_correcta": "Río Amazonas",
+      "dificultad": "Facil",
+      "topic": "Geografía"
+    },
+    {
+      "pregunta": "¿Quién pintó la Mona Lisa?",
+      "opciones": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+      "respuesta_correcta": "Leonardo da Vinci",
+      "dificultad": "Facil",
+      "topic": "Arte"
+    },
+    {
+      "pregunta": "¿Cuál es la moneda oficial de Japón?",
+      "opciones": ["Dólar", "Rublo", "Yen", "Euro"],
+      "respuesta_correcta": "Yen",
+      "dificultad": "Facil",
+      "topic": "Cultura"
+    },
+    {
+      "pregunta": "¿Quién fue el primer presidente de Estados Unidos?",
+      "opciones": ["Benjamin Franklin", "Thomas Jefferson", "George Washington", "Abraham Lincoln"],
+      "respuesta_correcta": "George Washington",
+      "dificultad": "Facil",
+      "topic": "Historia"
+    },
+    {
+      "pregunta": "¿En qué continente se encuentra Egipto?",
+      "opciones": ["Europa", "Asia", "África", "Oceanía"],
+      "respuesta_correcta": "África",
+      "dificultad": "Facil",
+      "topic": "Geografía"
+    }
+  ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es uno de los pilares fundamentales del Budismo?",
+      "opciones": ["Karma", "Dharma", "Puja", "Nirvana"],
+      "respuesta_correcta": "Nirvana",
+      "dificultad": "Dificil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿En qué se basa la concepción de Dharma en el Hinduismo?",
+      "opciones": ["Ley moral y deber", "Reencarnación", "Herencia divina", "Ciclo de Samsara"],
+      "respuesta_correcta": "Ley moral y deber",
+      "dificultad": "Dificil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Qué evento importante marca el inicio del calendario cristiano?",
+      "opciones": ["Nacimiento de Jesús", "Resurrección de Jesús", "Pentecostés", "Ascensión de Jesús"],
+      "respuesta_correcta": "Nacimiento de Jesús",
+      "dificultad": "Dificil",
+      "topic": "Cristianismo"
+    },
+    {
+      "preggunta": "¿Cuál es uno de los conceptos clave en la terapia cognitivo-conductual?",
+      "opciones": ["Transferencia", "Resistencia", "Reestructuración cognitiva", "Análisis de los sueños"],
+      "respuesta_correcta": "Reestructuración cognitiva",
+      "dificultad": "Dificil",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "¿Quién es considerado el padre del psicoanálisis?",
+      "opciones": ["Carl Jung", "Erik Erikson", "Sigmund Freud", "Alfred Adler"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Dificil",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Qué arcano representa la carta de 'El Loco' en una baraja de Tarot?",
+      "opciones": ["Arcano Mayor I", "Arcano Mayor VIII", "Arcano Mayor XIV", "Arcano Mayor XXI"],
+      "respuesta_correcta": "Arcano Mayor 0",
+      "dificultad": "Dificil",
+      "topic": "Tarot"
+    }
+  ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Quién fue el fundador del budismo?",
+      "opciones": ["Lao-Tsé", "Confucio", "Buda", "Mahavira"],
+      "respuesta_correcta": "Buda",
+      "dificultad": "Difícil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Cuál es el término sánscrito que se refiere a la idea del ciclo de las muertes y las reencarnaciones en el hinduismo?",
+      "opciones": ["Karma", "Moksha", "Samsara", "Dharma"],
+      "respuesta_correcta": "Samsara",
+      "dificultad": "Difícil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Quién escribió la obra 'La ciudad de Dios' en el cristianismo?",
+      "opciones": ["Agustín de Hipona", "Tertuliano", "Orígenes", "Jerónimo de Estridón"],
+      "respuesta_correcta": "Agustín de Hipona",
+      "dificultad": "Difícil",
+      "topic": "Cristianismo"
+    },
+    {
+      "pregunta": "¿Quién es considerado el padre del enfoque cognitivo-conductual en psicología?",
+      "opciones": ["Carl Rogers", "Sigmund Freud", "Aaron Beck", "Erik Erikson"],
+      "respuesta_correcta": "Aaron Beck",
+      "dificultad": "Difícil",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "preggunta": "¿Cuál es el concepto freudiano que se refiere al retorno de recuerdos reprimidos al consciente?",
+      "opciones": ["Catarsis", "Proyección", "Sublimación", "Represión"],
+      "respuesta_correcta": "Represión",
+      "dificultad": "Difícil",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Cuál es el nombre del arcano mayor del tarot que representa el equilibrio y la armonía?",
+      "opciones": ["La Luna", "La Justicia", "El Mundo", "La Torre"],
+      "respuesta_correcta": "La Justicia",
+      "dificultad": "Difícil",
+      "topic": "Tarot"
+    }
+  ]
+}{
+    "preguntas": [
+        {
+            "pregunta": "¿Cuál es el concepto central en la filosofía budista que hace referencia al sufrimiento inherente a la existencia?",
+            "opciones": ["Dharma", "Samsara", "Nirvana", "Dukkha"],
+            "respuesta_correcta": "Dukkha",
+            "dificultad": "Dificil",
+            "topic": "Budismo"
+        },
+        {
+            "pregunta": "¿Quién es el dios principal en la religión hindú que representa la creación, preservación y destrucción del universo?",
+            "opciones": ["Brahma", "Vishnu", "Shiva", "Krishna"],
+            "respuesta_correcta": "Vishnu",
+            "dificultad": "Dificil",
+            "topic": "Hinduismo"
+        },
+        {
+            "pregunta": "¿Qué importante figura bíblica del cristianismo es conocida como el padre de la fe?",
+            "opciones": ["Abraham", "Moisés", "Juan el Bautista", "Pablo"],
+            "respuesta_correcta": "Abraham",
+            "dificultad": "Dificil",
+            "topic": "Cristianismo"
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes no es un concepto central en la terapia cognitivo-conductual?",
+            "opciones": ["Reestructuración cognitiva", "Catarsis emocional", "Exposición gradual", "Técnicas de autocontrol"],
+            "respuesta_correcta": "Catarsis emocional",
+            "dificultad": "Dificil",
+            "topic": "Cognitivo-conductual"
+        },
+        {
+            "pregunta": "¿Quién fue el psiquiatra austriaco que desarrolló el psicoanálisis como un método para investigar la mente y tratar trastornos mentales?",
+            "opciones": ["Sigmund Freud", "Carl Jung", "Alfred Adler", "Erik Erikson"],
+            "respuesta_correcta": "Sigmund Freud",
+            "dificultad": "Dificil",
+            "topic": "Psicoanálisis"
+        },
+        {
+            "pregunta": "¿Cuál es el arcano mayor que simboliza el renacimiento y la transformación en una lectura de tarot?",
+            "opciones": ["La Torre", "El Diablo", "La Muerte", "La Estrella"],
+            "respuesta_correcta": "La Muerte",
+            "dificultad": "Dificil",
+            "topic": "Tarot"
+        },
+        {
+            "preggunta": "¿Qué principio budista se refiere a la comprensión de que todo está en constante cambio e impermanencia?",
+            "opciones": ["Anicca", "Anatta", "Karma", "Metta"],
+            "respuesta_correcta": "Anicca",
+            "dificultad": "Dificil",
+            "topic": "Budismo"
+        },
+        {
+            "pregunta": "¿Cuál es el avatar de Vishnu que es conocido como el príncipe divino y es una figura central en el hinduismo?",
+            "opciones": ["Rama", "Krishna", "Ganesha", "Shiva"],
+            "respuesta_correcta": "Rama",
+            "dificultad": "Dificil",
+            "topic": "Hinduismo"
+        },
+        {
+            "pregunta": "¿Cuál de los evangelios del Nuevo Testamento relata principalmente los sermones y enseñanzas de Jesucristo?",
+            "opciones": ["Mateo", "Marcos", "Lucas", "Juan"],
+            "respuesta_correcta": "Mateo",
+            "dificultad": "Dificil",
+            "topic": "Cristianismo"
+        },
+        {
+            "pregunta": "¿En la terapia cognitivo-conductual, qué técnica se usa para ayudar a los individuos a controlar sus pensamientos negativos?",
+            "opciones": ["Técnicas de exposición", "Entrenamiento en habilidades sociales", "Reestructuración cognitiva", "Relajación progresiva"],
+            "respuesta_correcta": "Reestructuración cognitiva",
+            "dificultad": "Dificil",
+            "topic": "Cognitivo-conductual"
+        }
+    ]
+}{
+  "preguntas":[
+    {
+      "pregunta": "¿Cuál es el principal propósito de la práctica del Noble Óctuple Sendero en el Budismo?",
+      "opciones": ["Alcanzar la sabiduría suprema", "Liberarse del sufrimiento", "Obtener riqueza material", "Alcanzar la inmortalidad"],
+      "respuesta_correcta": "Liberarse del sufrimiento",
+      "dificultad": "Dificil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Cuál es uno de los conceptos principales del Hinduismo relacionado con el ciclo de nacimiento, muerte y renacimiento?",
+      "opciones": ["Karma", "Moksha", "Dharma", "Nirvana"],
+      "respuesta_correcta": "Karma",
+      "dificultad": "Dificil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes libros no forma parte del Nuevo Testamento en la Biblia Cristiana?",
+      "opciones": ["Génesis", "Mateo", "Apocalipsis", "Romanos"],
+      "respuesta_correcta": "Génesis",
+      "dificultad": "Dificil",
+      "topic": "Cristianismo"
+    },
+    {
+      "preggunta": "En terapia cognitivo-conductual, ¿qué técnica se utiliza para identificar y cambiar pensamientos negativos o distorsionados?",
+      "opciones": ["Desensibilización sistemática", "Exposición con prevención de respuesta", "Reestructuración cognitiva", "Entrenamiento en habilidades sociales"],
+      "respuesta_correcta": "Reestructuración cognitiva",
+      "dificultad": "Dificil",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "¿Quién es considerado el padre del psicoanálisis?",
+      "opciones": ["Albert Ellis", "Ivan Pavlov", "Sigmund Freud", "Carl Jung"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Dificil",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes cartas del Tarot representa la transformación y el renacimiento?",
+      "opciones": ["La Muerte", "La Torre", "El Diablo", "El Sol"],
+      "respuesta_correcta": "La Muerte",
+      "dificultad": "Dificil",
+      "topic": "Tarot"
+    }
+  ]
+}{
+    "preguntas":[
+        {
+            "pregunta" : "¿Cuál es el concepto central de la doctrina del Budismo Theravada?",
+            "opciones": ["Dukkha", "Bhikkhu", "Samsara", "Nirvana"],
+            "respuesta_correcta": "Nirvana",
+            "dificultad": "Dificil",
+            "topic": "Budismo"
+        },
+        {
+            "pregunta" : "¿Quién es el dios principal en el Hinduismo conocido como el Creador del universo?",
+            "opciones": ["Vishnu", "Shiva", "Brahma", "Krishna"],
+            "respuesta_correcta": "Brahma",
+            "dificultad": "Dificil",
+            "topic": "Hinduismo"
+        },
+        {
+            "pregunta" : "¿Cuál es uno de los Evangelios sinópticos en el Cristianismo?",
+            "opciones": ["Juan", "Marcos", "Lucas", "Hechos"],
+            "respuesta_correcta": "Lucas",
+            "dificultad": "Dificil",
+            "topic": "Cristianismo"
+        },
+        {
+            "pregunta" : "En la terapia cognitivo-conductual, ¿cuál es una técnica común para cambiar pensamientos negativos?",
+            "opciones": ["Meditación", "Exposición", "Reestructuración cognitiva", "Refuerzo positivo"],
+            "respuesta_correcta": "Reestructuración cognitiva",
+            "dificultad": "Dificil",
+            "topic": "Cognitivo-conductual"
+        },
+        {
+            "pregunta" : "¿Cuál es uno de los conceptos fundamentales en la teoría psicoanalítica de Sigmund Freud?",
+            "opciones": ["Complejo de Edipo", "Conciencia colectiva", "Principio de placer", "Refuerzo positivo"],
+            "respuesta_correcta": "Complejo de Edipo",
+            "dificultad": "Dificil",
+            "topic": "Psicoanálisis"
+        },
+        {
+            "pregunta" : "En una lectura de tarot, ¿qué carta representa el equilibrio y la armonía?",
+            "opciones": ["La Torre", "El Diablo", "La Estrella", "La Justicia"],
+            "respuesta_correcta": "La Justicia",
+            "dificultad": "Dificil",
+            "topic": "Tarot"
+        }
+    ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Quién fue el fundador del Budismo?",
+      "opciones": ["Lao Tsé", "Confucio", "Buda", "Krishna"],
+      "respuesta_correcta": "Buda",
+      "dificultad": "Intermedio",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Cuál es el libro sagrado del Hinduismo?",
+      "opciones": ["Bhagavad Gita", "Torah", "Biblia", "Corán"],
+      "respuesta_correcta": "Bhagavad Gita",
+      "dificultad": "Intermedio",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes apóstoles de Jesús escribió más cartas en el Nuevo Testamento?",
+      "opciones": ["Pedro", "Santiago", "Pablo", "Juan"],
+      "respuesta_correcta": "Pablo",
+      "dificultad": "Intermedio",
+      "topic": "Cristianismo"
+    },
+    {
+      "pregunta": "¿Quién es considerado el padre de la psicología cognitivo-conductual?",
+      "opciones": ["Sigmund Freud", "Albert Bandura", "Ivan Pavlov", "John B. Watson"],
+      "respuesta_correcta": "Albert Bandura",
+      "dificultad": "Intermedio",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "¿Quién desarrolló la teoría psicoanalítica?",
+      "opciones": ["Carl Jung", "Alfred Adler", "Erik Erikson", "Sigmund Freud"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Intermedio",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes cartas del tarot representa la transformación y el renacimiento?",
+      "opciones": ["El Colgado", "La Estrella", "El Diablo", "La Muerte"],
+      "respuesta_correcta": "La Muerte",
+      "dificultad": "Intermedio",
+      "topic": "Tarot"
+    },
+    {
+      "preggunta": "¿Cuál es el nombre del proceso de iluminación en el Budismo?",
+      "opciones": ["Nirvana", "Samsara", "Dharma", "Karma"],
+      "respuesta_correcta": "Nirvana",
+      "dificultad": "Intermedio",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Qué dios principal se encuentra en la Trinidad Hindú?",
+      "opciones": ["Brahma", "Vishnu", "Shiva", "Ganesha"],
+      "respuesta_correcta": "Vishnu",
+      "dificultad": "Intermedio",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes denominaciones cristianas valora el bautismo por inmersión?",
+      "opciones": ["Católicos", "Ortodoxos", "Protestantes", "Bautistas"],
+      "respuesta_correcta": "Bautistas",
+      "dificultad": "Intermedio",
+      "topic": "Cristianismo"
+    },
+    {
+      "pregunta": "¿En qué se basa principalmente el enfoque terapéutico cognitivo-conductual?",
+      "opciones": ["Entender el inconsciente", "Cambiar los pensamientos y comportamientos disfuncionales", "Resolver conflictos edípicos", "Explorar la infancia"],
+      "respuesta_correcta": "Cambiar los pensamientos y comportamientos disfuncionales",
+      "dificultad": "Intermedio",
+      "topic": "Cognitivo-conductual"
+    }
+  ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Quién fue el fundador del Budismo?",
+      "opciones": ["Buda", "Ganesha", "Jesucristo", "Sigmund Freud"],
+      "respuesta_correcta": "Buda",
+      "dificultad": "Intermedio",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Cuál es la deidad principal del Hinduismo?",
+      "opciones": ["Brahma", "Buda", "Jesucristo", "Carl Jung"],
+      "respuesta_correcta": "Brahma",
+      "dificultad": "Intermedio",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿En qué ciudad nació Jesucristo según las escrituras cristianas?",
+      "opciones": ["Belén", "Jerusalén", "Roma", "Atenas"],
+      "respuesta_correcta": "Belén",
+      "dificultad": "Intermedio",
+      "topic": "Cristianismo"
+    },
+    {
+      "pregunta": "¿Cuál es uno de los principales objetivos de la terapia cognitivo-conductual?",
+      "opciones": ["Explorar el inconsciente", "Encontrar el yo superior", "Cambiar patrones de pensamiento", "Predecir el futuro"],
+      "respuesta_correcta": "Cambiar patrones de pensamiento",
+      "dificultad": "Intermedio",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "¿Quién fue el creador del psicoanálisis?",
+      "opciones": ["Sigmund Freud", "Carl Gustav Jung", "Friedrich Nietzsche", "Albert Einstein"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Intermedio",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Qué carta del tarot representa la transformación y el cambio radical?",
+      "opciones": ["La Torre", "El Mago", "La Estrella", "La Luna"],
+      "respuesta_correcta": "La Torre",
+      "dificultad": "Intermedio",
+      "topic": "Tarot"
+    },
+    {
+      "preggunta": "¿En qué país se originó el Budismo?",
+      "opciones": ["India", "China", "Japón", "Corea"],
+      "respuesta_correcta": "India",
+      "dificultad": "Intermedio",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Cuál es el texto sagrado más antiguo del Hinduismo?",
+      "opciones": [" Rig Veda", "Bhagavad Gita", "Upanishads", "Puranas"],
+      "respuesta_correcta": "Rig Veda",
+      "dificultad": "Intermedio",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Cuántos libros conforman el Nuevo Testamento en la Biblia cristiana?",
+      "opciones": ["27", "39", "66", "13"],
+      "respuesta_correcta": "27",
+      "dificultad": "Intermedio",
+      "topic": "Cristianismo"
+    },
+    {
+      "pregunta": "¿Qué técnica se utiliza comúnmente en la terapia cognitivo-conductual para identificar pensamientos irracionales?",
+      "opciones": ["Reestructuración cognitiva", "Hipnosis", "Regresión", "Relajación progresiva"],
+      "respuesta_correcta": "Reestructuración cognitiva",
+      "dificultad": "Intermedio",
+      "topic": "Cognitivo-conductual"
+    }
+  ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el término budista que hace referencia al sufrimiento?",
+      "opciones": ["Nirvana", "Dharma", "Samsara", "Dukkha"],
+      "respuesta_correcta": "Dukkha",
+      "dificultad": "Intermedio",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Quién es la principal deidad del hinduismo relacionada con la protección y la destrucción del universo?",
+      "opciones": ["Vishnu", "Shiva", "Brahma", "Kali"],
+      "respuesta_correcta": "Vishnu",
+      "dificultad": "Intermedio",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿En qué día de la semana se celebra la principal reunión de los cristianos?",
+      "opciones": ["Lunes", "Miércoles", "Sábado", "Domingo"],
+      "respuesta_correcta": "Domingo",
+      "dificultad": "Intermedio",
+      "topic": "Cristianismo"
+    },
+    {
+      "pregunta": "En un enfoque cognitivo-conductual, ¿qué se busca cambiar principalmente?",
+      "opciones": ["Emociones", "Pensamientos", "Comportamientos", "Personalidad"],
+      "respuesta_correcta": "Pensamientos",
+      "dificultad": "Intermedio",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "¿Quién es considerado el padre del psicoanálisis?",
+      "opciones": ["Carl Jung", "Sigmund Freud", "Alfred Adler", "Erik Erikson"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Intermedio",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Cuál de estas cartas del tarot está relacionada con la transformación y el cambio?",
+      "opciones": ["El Loco", "La Fuerza", "La Muerte", "La Torre"],
+      "respuesta_correcta": "La Muerte",
+      "dificultad": "Intermedio",
+      "topic": "Tarot"
+    }
+  ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Quién es considerado el fundador del Budismo?",
+      "opciones": ["Buda Gautama", "Confucio", "Lao-Tsé", "Mahavira"],
+      "respuesta_correcta": "Buda Gautama",
+      "dificultad": "Dificil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Cuál es la principal deidad del Hinduismo asociada con la creación y destrucción del Universo?",
+      "opciones": ["Ganesha", "Brahma", "Vishnu", "Shiva"],
+      "respuesta_correcta": "Brahma",
+      "dificultad": "Dificil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿En qué concilio cristiano se estableció la doctrina de la Santísima Trinidad?",
+      "opciones": ["Concilio de Nicea I", "Concilio de Constantinopla I", "Concilio de Éfeso", "Concilio de Calcedonia"],
+      "respuesta_correcta": "Concilio de Nicea I",
+      "dificultad": "Dificil",
+      "topic": "Cristianismo"
+    },
+    {
+      "pregunta": "¿Cuál es el concepto de Neurosis de Agresión en Psicoanálisis?",
+      "opciones": ["Concepto de Jung", "Concepto de Adler", "Concepto de Rank", "Concepto de Ferenczi"],
+      "respuesta_correcta": "Concepto de Ferenczi",
+      "dificultad": "Dificil",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "preggunta": "¿Quién es considerado el padre del Humanismo?",
+      "opciones": ["Sócrates", "Platón", "Aristóteles", "Petrarca"],
+      "respuesta_correcta": "Petrarca",
+      "dificultad": "Dificil",
+      "topic": "Humanismo"
+    },
+    {
+      "pregunta": "¿Qué carta del Tarot representa el renacimiento y la transformación?",
+      "opciones": ["La Muerte", "La Luna", "El Sol", "La Torre"],
+      "respuesta_correcta": "La Muerte",
+      "dificultad": "Dificil",
+      "topic": "Tarot"
+    }
+  ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Quién fue el fundador del budismo?",
+      "opciones": ["Buda", "Siddharta Gautama", "Confucio", "Lao-Tsé"],
+      "respuesta_correcta": "Siddharta Gautama",
+      "dificultad": "Dificil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Cuál es el libro sagrado del hinduismo?",
+      "opciones": ["Bhagavad Gita", "Vedas", "Ramayana", "Upanishads"],
+      "respuesta_correcta": "Vedas",
+      "dificultad": "Dificil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿En qué concilio se definió la doctrina de la Santísima Trinidad en el cristianismo?",
+      "opciones": ["Concilio de Éfeso", "Concilio de Calcedonia", "Concilio de Nicea", "Concilio de Trento"],
+      "respuesta_correcta": "Concilio de Nicea",
+      "dificultad": "Dificil",
+      "topic": "Cristianismo"
+    },
+    {
+      "pregunta": "¿Quién introdujo el concepto de inconsciente en el psicoanálisis?",
+      "opciones": ["Sigmund Freud", "Carl Jung", "Jacques Lacan", "Alfred Adler"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Dificil",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Qué filósofo humanista escribió \"El elogio de la locura\"?",
+      "opciones": ["Francis Bacon", "Thomas More", "Desiderius Erasmus", "Michel de Montaigne"],
+      "respuesta_correcta": "Desiderius Erasmus",
+      "dificultad": "Dificil",
+      "topic": "Humanismo"
+    },
+    {
+      "preggunta": "¿Cuál de estas cartas del tarot representa la transformación?",
+      "opciones": ["La Muerte", "La Luna", "La Torre", "El Juicio"],
+      "respuesta_correcta": "La Muerte",
+      "dificultad": "Dificil",
+      "topic": "Tarot"
+    }
+  ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Quién fue el fundador del Budismo?",
+      "opciones": ["Buda Gautama", "Confucio", "Lao Tsé", "Mahavira"],
+      "respuesta_correcta": "Buda Gautama",
+      "dificultad": "Dificil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Cuál es el nombre del libro sagrado del Hinduismo?",
+      "opciones": ["Tao Te Ching", "Mahabharata", "Bhagavad Gita", "Zend Avesta"],
+      "respuesta_correcta": "Bhagavad Gita",
+      "dificultad": "Dificil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿En qué concilio se estableció la Trinidad en el Cristianismo?",
+      "opciones": ["Concilio de Nicea", "Concilio de Trento", "Concilio de Calcedonia", "Concilio de Éfeso"],
+      "respuesta_correcta": "Concilio de Nicea",
+      "dificultad": "Dificil",
+      "topic": "Cristianismo"
+    },
+    {
+      "pregunta": "¿Quién fue el creador del Psicoanálisis?",
+      "opciones": ["Carl Gustav Jung", "Erich Fromm", "Wilhelm Reich", "Sigmund Freud"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Dificil",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Cuál es uno de los principios fundamentales del Humanismo?",
+      "opciones": ["Anatma", "Ahimsa", "Libre Albedrío", "Dharma"],
+      "respuesta_correcta": "Libre Albedrío",
+      "dificultad": "Dificil",
+      "topic": "Humanismo"
+    },
+    {
+      "preggunta": "¿Cuál es la carta que representa la muerte en el Tarot?",
+      "opciones": ["La Luna", "El Diablo", "La Torre", "La Muerte"],
+      "respuesta_correcta": "La Muerte",
+      "dificultad": "Dificil",
+      "topic": "Tarot"
+    }
+  ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es uno de los textos más importantes del Budismo Theravada?",
+      "opciones": ["Bhagavad Gita", "Dhammapada", "Tao Te Ching", "Zend Avesta"],
+      "respuesta_correcta": "Dhammapada",
+      "dificultad": "Dificil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿En el Hinduismo, qué deidad es considerada la creadora del universo?",
+      "opciones": ["Vishnu", "Brahma", "Shiva", "Durga"],
+      "respuesta_correcta": "Brahma",
+      "dificultad": "Dificil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes denominaciones del Cristianismo es conocida por su énfasis en la evangelización?",
+      "opciones": ["Iglesia Ortodoxa", "Iglesia Anglicana", "Iglesia Pentecostal", "Iglesia Luterana"],
+      "respuesta_correcta": "Iglesia Pentecostal",
+      "dificultad": "Dificil",
+      "topic": "Cristianismo"
+    },
+    {
+      "pregunta": "¿Quién fue el creador del Psicoanálisis?",
+      "opciones": ["Carl Jung", "Sigmund Freud", "Erich Fromm", "Alfred Adler"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Dificil",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Quién es considerado el fundador del Humanismo?",
+      "opciones": ["Jean-Paul Sartre", "Ernest Hemingway", "Michel Foucault", "Petrarca"],
+      "respuesta_correcta": "Petrarca",
+      "dificultad": "Dificil",
+      "topic": "Humanismo"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes cartas del Tarot representa cambios y transformaciones?",
+      "opciones": ["El Loco", "La Torre", "El Mundo", "La Muerte"],
+      "respuesta_correcta": "La Muerte",
+      "dificultad": "Dificil",
+      "topic": "Tarot"
+    }
+  ]
+}{
+"preguntas":[
+      {
+        "pregunta" : "¿Cuál es uno de los tres Sellos del Dharma en el Budismo?",
+        "opciones": ["Anicca (impermanencia)", "Atman (alma)", "Samsara (ciclo de renacimientos)", "Nirvana (iluminación)"],
+        "respuesta_correcta": "Anicca (impermanencia)",
+        "dificultad": "Dificil",
+        "topic": "Budismo"
+      },
+      {
+        "pregunta" : "¿Cuál es el término en sánscrito para el ciclo de nacimientos y renacimientos en el Hinduismo?",
+        "opciones": ["Dharma (deber)", "Karma (acción)", "Moksha (liberación)", "Samsara"],
+        "respuesta_correcta": "Samsara",
+        "dificultad": "Dificil",
+        "topic": "Hinduismo"
+      },
+      {
+        "pregunta" : "¿Cuál de los siguientes evangelios no es considerado canónico en el Cristianismo?",
+        "opciones": ["Mateo", "Juan", "Tomás", "Marcos"],
+        "respuesta_correcta": "Tomás",
+        "dificultad": "Dificil",
+        "topic": "Cristianismo"
+      },
+      {
+        "pregunta" : "¿Quién desarrolló el concepto de la 'Teoría del Caos' en el Humanismo?",
+        "opciones": ["Sigmund Freud", "Carl Gustav Jung", "Edward Lorenz", "Alfred Adler"],
+        "respuesta_correcta": "Edward Lorenz",
+        "dificultad": "Dificil",
+        "topic": "Humanismo"
+      },
+      {
+        "pregunta" : "¿Cuál de las siguientes no es una premisa de la terapia sistémica?",
+        "opciones": ["Causa-efecto", "Circularidad", "Multicausalidad", "Objetividad"],
+        "respuesta_correcta": "Objetividad",
+        "dificultad": "Dificil",
+        "topic": "Sistémica"
+      },
+      {
+        "pregunta" : "¿Cuál es el arcano mayor que representa el renacimiento en el Tarot?",
+        "opciones": ["El Loco", "La Torre", "La Muerte", "La Rueda de la Fortuna"],
+        "respuesta_correcta": "La Muerte",
+        "dificultad": "Dificil",
+        "topic": "Tarot"
+      }
+    ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el concepto central del Budismo Theravada?",
+      "opciones": ["Nirvana", "Karma", "Dharma", "Samsara"],
+      "respuesta_correcta": "Nirvana",
+      "dificultad": "Dificil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿En qué texto hinduista se encuentran las Upanishads?",
+      "opciones": ["Yoga Sutras", "Bhagavad Gita", "Rigveda", "Aranyakas"],
+      "respuesta_correcta": "Aranyakas",
+      "dificultad": "Dificil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes conceptos no pertenece al pensamiento de Nietzsche?",
+      "opciones": ["Voluntad de poder", "Sobre hombre", "Amor universal", "Eterno retorno"],
+      "respuesta_correcta": "Amor universal",
+      "dificultad": "Dificil",
+      "topic": "Nietzsche"
+    },
+    {
+      "pregunta": "¿Quién es considerado el padre del psicoanálisis?",
+      "opciones": ["Carl Jung", "Alfred Adler", "Sigmund Freud", "Erik Erikson"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Dificil",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿En qué ciudad se originó la Terapia Sistémica?",
+      "opciones": ["Milán", "Nueva York", "Londres", "Berlín"],
+      "respuesta_correcta": "Milán",
+      "dificultad": "Dificil",
+      "topic": "Sistémica"
+    },
+    {
+      "preggunta": "¿Cuál es el elemento del zodiaco correspondiente a Sagitario?",
+      "opciones": ["Aire", "Fuego", "Tierra", "Agua"],
+      "respuesta_correcta": "Fuego",
+      "dificultad": "Dificil",
+      "topic": "Signos Zodiacales"
+    },
+    {
+      "pregunta": "¿Qué carta del tarot representa la transformación y el cambio?",
+      "opciones": ["La Torre", "La Luna", "El Sol", "La Estrella"],
+      "respuesta_correcta": "La Torre",
+      "dificultad": "Dificil",
+      "topic": "Tarot"
+    }
+  ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Quién fue el fundador del Budismo?",
+      "opciones": ["Buda", "Confucio", "Lao-Tsé", "Moisés"],
+      "respuesta_correcta": "Buda",
+      "dificultad": "Dificil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Cuál es el libro sagrado del Hinduismo?",
+      "opciones": ["Bhagavad Gita", "Corán", "Biblia", "Talmud"],
+      "respuesta_correcta": "Bhagavad Gita",
+      "dificultad": "Dificil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes obras es de Friedrich Nietzsche?",
+      "opciones": ["Así habló Zaratustra", "La Divina Comedia", "Cien años de soledad", "Don Quijote de la Mancha"],
+      "respuesta_correcta": "Así habló Zaratustra",
+      "dificultad": "Dificil",
+      "topic": "Nietzsche"
+    },
+    {
+      "pregunta": "¿Quién es considerado el padre del Psicoanálisis?",
+      "opciones": ["Sigmund Freud", "Carl Jung", "Alfred Adler", "Erik Erikson"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Dificil",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Qué teoría se enfoca en estudiar las interacciones en un sistema familiar?",
+      "opciones": ["Teoría de la relatividad", "Teoría de cuerdas", "Teoría Sistémica", "Teoría del Caos"],
+      "respuesta_correcta": "Teoría Sistémica",
+      "dificultad": "Dificil",
+      "topic": "Sistémica"
+    },
+    {
+      "preggunta": "¿Cuál de los siguientes signos no pertenece al elemento de fuego en el zodiaco?",
+      "opciones": ["Aries", "Leo", "Géminis", "Sagitario"],
+      "respuesta_correcta": "Géminis",
+      "dificultad": "Dificil",
+      "topic": "Signos Zodiacales"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes cartas es conocida como el Arcano Mayor número 0 en el Tarot?",
+      "opciones": ["El Loco", "El Mago", "El Diablo", "La Muerte"],
+      "respuesta_correcta": "El Loco",
+      "dificultad": "Dificil",
+      "topic": "Tarot"
+    }
+  ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "Quién es considerado el fundador del Budismo?",
+      "opciones": ["Buda", "Confucio", "Lao Tse", "Gandhi"],
+      "respuesta_correcta": "Buda",
+      "dificultad": "Dificil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "Cuál es el nombre del dios principal en el Hinduismo?",
+      "opciones": ["Brahma", "Vishnu", "Shiva", "Krishna"],
+      "respuesta_correcta": "Brahma",
+      "dificultad": "Dificil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "Cuál de las siguientes obras es conocida como la principal de Nietzsche?",
+      "opciones": ["Así habló Zaratustra", "La genealogía de la moral", "El Anticristo", "Más allá del bien y del mal"],
+      "respuesta_correcta": "Así habló Zaratustra",
+      "dificultad": "Dificil",
+      "topic": "Nietzsche"
+    },
+    {
+      "pregunta": "Quién es considerado el padre del psicoanálisis?",
+      "opciones": ["Sigmund Freud", "Carl Jung", "Alfred Adler", "Erik Erikson"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Dificil",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "En qué se basa la terapia sistémica?",
+      "opciones": ["Enfoque individual", "Enfoque en el inconsciente", "Enfoque en el sistema familiar", "Enfoque en la biología"],
+      "respuesta_correcta": "Enfoque en el sistema familiar",
+      "dificultad": "Dificil",
+      "topic": "Sistémica"
+    },
+    {
+      "pregunta": "Cuál de los siguientes signos zodiacales es un signo de fuego?",
+      "opciones": ["Capricornio", "Piscis", "Aries", "Géminis"],
+      "respuesta_correcta": "Aries",
+      "dificultad": "Dificil",
+      "topic": "Signos Zodiacales"
+    },
+    {
+      "preggunta": "Cuál de las siguientes cartas representa el cambio y la transformación en el Tarot?",
+      "opciones": ["El Loco", "La Rueda de la Fortuna", "La Torre", "La Muerte"],
+      "respuesta_correcta": "La Muerte",
+      "dificultad": "Dificil",
+      "topic": "Tarot"
+    }
+  ]
+}{
+    "preguntas": [
+        {
+            "pregunta": "¿Quién es considerado el fundador del Budismo?",
+            "opciones": ["Confucio", "Buda Gautama", "Lao-Tsé", "Mahavira"],
+            "respuesta_correcta": "Buda Gautama",
+            "dificultad": "Dificil",
+            "topic": "Budismo"
+        },
+        {
+            "pregunta": "¿Cuál es uno de los libros sagrados del Hinduismo?",
+            "opciones": ["Tao Te Ching", "Rigveda", "Popol Vuh", "Bhagavad Gita"],
+            "respuesta_correcta": "Rigveda",
+            "dificultad": "Dificil",
+            "topic": "Hinduismo"
+        },
+        {
+            "pregunta": "¿Cuál es una de las principales obras de Friedrich Nietzsche?",
+            "opciones": ["La rebelión de Atlas", "Así habló Zaratustra", "El psicoanálisis", "El arte de amar"],
+            "respuesta_correcta": "Así habló Zaratustra",
+            "dificultad": "Dificil",
+            "topic": "Nietzsche"
+        },
+        {
+            "pregunta": "¿Quién desarrolló la teoría del complejo de Edipo en Psicoanálisis?",
+            "opciones": ["Sigmund Freud", "Carl Jung", "Jacques Lacan", "Erik Erikson"],
+            "respuesta_correcta": "Sigmund Freud",
+            "dificultad": "Dificil",
+            "topic": "Psicoanálisis"
+        },
+        {
+            "preggunta": "¿En qué consiste la terapia sistémica?",
+            "opciones": ["Analizar sueños", "Examinar el inconsciente", "Enfocarse en las relaciones y dinámicas familiares", "Practicar la meditación"],
+            "respuesta_correcta": "Enfocarse en las relaciones y dinámicas familiares",
+            "dificultad": "Dificil",
+            "topic": "Sistémica"
+        },
+        {
+            "pregunta": "¿Cuál es el signo zodiacal que se representa con el símbolo del agua?",
+            "opciones": ["Aries", "Géminis", "Piscis", "Libra"],
+            "respuesta_correcta": "Piscis",
+            "dificultad": "Dificil",
+            "topic": "Signos Zodiacales"
+        },
+        {
+            "pregunta": "¿Qué carta del tarot representa la muerte?",
+            "opciones": ["La Torre", "El Mago", "La Estrella", "La Muerte"],
+            "respuesta_correcta": "La Muerte",
+            "dificultad": "Dificil",
+            "topic": "Tarot"
+        }
+    ]
+}{
+  "preguntas":[
+    {
+      "pregunta":"¿Cuál es el concepto central de la filosofía de Nietzsche?",
+      "opciones":["Voluntad de poder","Amor universal","Iluminación espiritual","Reencarnación"],
+      "respuesta_correcta":"Voluntad de poder",
+      "dificultad":"Difícil",
+      "topic":"Nietzsche"
+    },
+    {
+      "pregunta":"Según el Budismo, ¿cuál es la causa del sufrimiento según el Noble Óctuple Sendero?",
+      "opciones":["Deseo","Sabiduría","Acción correcta","Silencio"],
+      "respuesta_correcta":"Deseo",
+      "dificultad":"Difícil",
+      "topic":"Budismo"
+    },
+    {
+      "pregunta":"¿En qué se especializa la terapia sistémica?",
+      "opciones":["En el estudio de los sueños","En la influencia de la familia en los individuos","En la lectura del tarot","En la meditación trascendental"],
+      "respuesta_correcta":"En la influencia de la familia en los individuos",
+      "dificultad":"Difícil",
+      "topic":"Sistémica"
+    },
+    {
+      "pregunta":"¿Cuál es el objetivo principal del Tarot?",
+      "opciones":["Predecir el futuro","Conectar con seres superiores","Guiar la meditación","Generar relajación"],
+      "respuesta_correcta":"Conectar con seres superiores",
+      "dificultad":"Difícil",
+      "topic":"Tarot"
+    },
+    {
+      "pregunta":"¿Cuál es el nombre del concepto hindú de la ley de causa y efecto?",
+      "opciones":["Bhakti","Karma","Dharma","Moksha"],
+      "respuesta_correcta":"Karma",
+      "dificultad":"Difícil",
+      "topic":"Hinduismo"
+    },
+    {
+      "pregunta":"¿Cuál es el símbolo que representa a Libra en el zodiaco?",
+      "opciones":["El cangrejo","El pez","La balanza","El león"],
+      "respuesta_correcta":"La balanza",
+      "dificultad":"Difícil",
+      "topic":"Signos Zodiacales"
+    },
+    {
+      "pregunta":"¿Qué psicólogo fundó el psicoanálisis?",
+      "opciones":["Carl Jung","Sigmund Freud","Erich Fromm","Alfred Adler"],
+      "respuesta_correcta":"Sigmund Freud",
+      "dificultad":"Difícil",
+      "topic":"Psicoanálisis"
+    }
+  ]
+}{
+  "preguntas":[
+    {
+      "pregunta":"¿Cuál es uno de los Cuatro Nobles Verdades en el Budismo?",
+      "opciones":["La vida es sufrimiento", "La vida es felicidad", "La vida es neutral", "La vida es dolor"],
+      "respuesta_correcta":"La vida es sufrimiento",
+      "dificultad":"Dificil",
+      "topic":"Budismo"
+    },
+    {
+      "pregunta":"¿En qué texto sagrado del Hinduismo se encuentra la Bhagavad Gita?",
+      "opciones":["Vedas", "Upanishads", "Ramayana", "Mahabharata"],
+      "respuesta_correcta":"Mahabharata",
+      "dificultad":"Dificil",
+      "topic":"Hinduismo"
+    },
+    {
+      "pregunta":"¿Cuál de las siguientes ramas del Cristianismo no reconoce la autoridad papal?",
+      "opciones":["Ortodoxia", "Protestantismo", "Catolicismo", "Anglicanismo"],
+      "respuesta_correcta":"Protestantismo",
+      "dificultad":"Dificil",
+      "topic":"Cristianismo"
+    },
+    {
+      "pregunta":"¿Cuál es uno de los principios clave del enfoque cognitivo-conductual en psicología?",
+      "opciones":["Refuerzo positivo", "Análisis de los sueños", "Catarsis emocional", "Reevaluación de pensamientos"],
+      "respuesta_correcta":"Reevaluación de pensamientos",
+      "dificultad":"Dificil",
+      "topic":"Cognitivo-conductual"
+    },
+    {
+      "pregunta":"¿Quién es considerado el padre del psicoanálisis?",
+      "opciones":["Erik Erikson", "Carl Jung", "Sigmund Freud", "Alfred Adler"],
+      "respuesta_correcta":"Sigmund Freud",
+      "dificultad":"Dificil",
+      "topic":"Psicoanálisis"
+    },
+    {
+      "pregunta":"¿Cuál de las siguientes cartas del Tarot representaría la renovación y el renacimiento?",
+      "opciones":["La Muerte", "La Estrella", "El Sol", "La Torre"],
+      "respuesta_correcta":"La Muerte",
+      "dificultad":"Dificil",
+      "topic":"Tarot"
+    }
+  ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué enseña el Budismo acerca del sufrimiento?",
+      "opciones": ["Es una ilusión que debe ser ignorada", "Es causado por el deseo y apego", "Es inevitable e irrelevante", "Es un castigo divino"],
+      "respuesta_correcta": "Es causado por el deseo y apego",
+      "dificultad": "Intermedio",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Cuál es la principal deidad del Hinduismo?",
+      "opciones": ["Vishnu", "Buda", "Shiva", "Krishna"],
+      "respuesta_correcta": "Vishnu",
+      "dificultad": "Intermedio",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Cuál es uno de los principales conceptos del enfoque cognitivo-conductual?",
+      "opciones": ["Complejo de Edipo", "Alineación de chakras", "Refuerzo positivo", "Reencarnación"],
+      "respuesta_correcta": "Refuerzo positivo",
+      "dificultad": "Intermedio",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "¿Quién es considerado el padre del psicoanálisis?",
+      "opciones": ["Carl Rogers", "Erik Erikson", "Sigmund Freud", "Albert Bandura"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Intermedio",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Qué propone la terapia sistémica?",
+      "opciones": ["Analizar los sueños", "Encontrar el origen de los conflictos internos", "Explorar la interacción en sistemas sociales", "Realizar predicciones futuras"],
+      "respuesta_correcta": "Explorar la interacción en sistemas sociales",
+      "dificultad": "Intermedio",
+      "topic": "Sistémica"
+    },
+    {
+      "preggunta": "En una lectura de tarot, ¿qué representa la carta de El Emperador?",
+      "opciones": ["Renovación", "Poder y autoridad", "Pérdida", "Armonía"],
+      "respuesta_correcta": "Poder y autoridad",
+      "dificultad": "Intermedio",
+      "topic": "Tarot"
+    }
+  ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el concepto central en el Budismo que representa la naturaleza del sufrimiento?",
+      "opciones": ["Dharma", "Nirvana", "Samsara", "Dukkha"],
+      "respuesta_correcta": "Dukkha",
+      "dificultad": "Intermedio",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿En qué país se originó el Hinduismo?",
+      "opciones": ["China", "India", "Japón", "Tailandia"],
+      "respuesta_correcta": "India",
+      "dificultad": "Intermedio",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Cuál es uno de los principios básicos de la Terapia Cognitivo-Conductual?",
+      "opciones": ["Subconsciente", "Reestructuración cognitiva", "Análisis de los sueños", "Complejidad familiar"],
+      "respuesta_correcta": "Reestructuración cognitiva",
+      "dificultad": "Intermedio",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "¿Quién es considerado el padre del Psicoanálisis?",
+      "opciones": ["Carl Jung", "Albert Ellis", "Sigmund Freud", "Erik Erikson"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Intermedio",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Qué enfoque terapéutico se centra en las relaciones y dinámicas familiares?",
+      "opciones": ["Gestalt", "Cognitivo-conductual", "Positivismo", "Sistémica"],
+      "respuesta_correcta": "Sistémica",
+      "dificultad": "Intermedio",
+      "topic": "Sistémica"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes cartas del Tarot representa la transformación y el renacimiento?",
+      "opciones": ["La Justicia", "La Torre", "La Estrella", "La Muerte"],
+      "respuesta_correcta": "La Muerte",
+      "dificultad": "Intermedio",
+      "topic": "Tarot"
+    },
+    {
+      "preggunta": "¿Qué enseñanza budista se refiere a hacer el bien sin esperar nada a cambio?",
+      "opciones": ["Karma", "Nirvana", "Metta", "Bodhisattva"],
+      "respuesta_correcta": "Metta",
+      "dificultad": "Intermedio",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Cuál es la deidad principal en el Hinduismo?",
+      "opciones": ["Buda", "Vishnu", "Brahma", "Shiva"],
+      "respuesta_correcta": "Vishnu",
+      "dificultad": "Intermedio",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Qué técnica de la Terapia Cognitivo-Conductual se enfoca en cambiar patrones de pensamiento negativos?",
+      "opciones": ["Exposición", "Mindfulness", "Reestructuración cognitiva", "Técnica de parada de pensamiento"],
+      "respuesta_correcta": "Reestructuración cognitiva",
+      "dificultad": "Intermedio",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "¿Quién desarrolló la teoría del Complejo de Edipo en el Psicoanálisis?",
+      "opciones": ["Carl Rogers", "Erik Erikson", "Sigmund Freud", "Carl Jung"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Intermedio",
+      "topic": "Psicoanálisis"
+    }
+  ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el principal objetivo del Budismo?",
+      "opciones": ["Lograr la iluminación", "Acumular riquezas materiales", "Seguir a un líder supremo", "Vivir en armonía con la naturaleza"],
+      "respuesta_correcta": "Lograr la iluminación",
+      "dificultad": "Intermedio",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Cuál es uno de los dioses principales en el Hinduismo?",
+      "opciones": ["Vishnu", "Thor", "Zeus", "Júpiter"],
+      "respuesta_correcta": "Vishnu",
+      "dificultad": "Intermedio",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Quién es considerado el fundador del Psicoanálisis?",
+      "opciones": ["Sigmund Freud", "Carl Jung", "Ivan Pavlov", "B.F. Skinner"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Intermedio",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿En qué se basa principalmente la terapia sistémica?",
+      "opciones": ["En el individuo como ente aislado", "En las normas sociales", "En el análisis de los sueños", "En las interacciones familiares y sociales"],
+      "respuesta_correcta": "En las interacciones familiares y sociales",
+      "dificultad": "Intermedio",
+      "topic": "Sistémica"
+    },
+    {
+      "preggunta": "¿Cuál es el principal objetivo de la terapia cognitivo-conductual?",
+      "opciones": ["Explorar el inconsciente", "Modificar patrones de pensamiento y conducta disfuncionales", "Conectar con seres queridos fallecidos", "Predecir el futuro"],
+      "respuesta_correcta": "Modificar patrones de pensamiento y conducta disfuncionales",
+      "dificultad": "Intermedio",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "¿Qué tipo de cartas se utilizan en una lectura de Tarot?",
+      "opciones": ["Póker", "Españolas", "De Yu-Gi-Oh", "De Tarot"],
+      "respuesta_correcta": "De Tarot",
+      "dificultad": "Intermedio",
+      "topic": "Tarot"
+    }
+  ]
+}{
+    "preguntas": [
+        {
+            "pregunta": "¿Cuál es el nombre del fundador del Budismo?",
+            "opciones": ["Mahatma Gandhi", "Siddhartha Gautama", "Dalai Lama", "Confucio"],
+            "respuesta_correcta": "Siddhartha Gautama",
+            "dificultad": "Intermedio",
+            "topic": "Budismo"
+        },
+        {
+            "pregunta": "¿En qué país se originó el Hinduismo?",
+            "opciones": ["China", "India", "Japón", "Tailandia"],
+            "respuesta_correcta": "India",
+            "dificultad": "Intermedio",
+            "topic": "Hinduismo"
+        },
+        {
+            "pregunta": "¿Quién es considerado el padre del psicoanálisis?",
+            "opciones": ["Carl Jung", "Sigmund Freud", "Erik Erikson", "Albert Ellis"],
+            "respuesta_correcta": "Sigmund Freud",
+            "dificultad": "Intermedio",
+            "topic": "Psicoanálisis"
+        },
+        {
+            "pregunta": "¿Cuál es uno de los principios fundamentales del enfoque cognitivo-conductual?",
+            "opciones": ["Inconsciente colectivo", "Condicionamiento clásico", "Arquetipos", "Libre albedrío"],
+            "respuesta_correcta": "Condicionamiento clásico",
+            "dificultad": "Intermedio",
+            "topic": "Cognitivo-conductual"
+        },
+        {
+            "pregunta": "¿Cuál es el concepto central del enfoque sistémico en terapia?",
+            "opciones": ["Conciencia plena", "Cambio individual", "Interdependencia", "Determinismo radical"],
+            "respuesta_correcta": "Interdependencia",
+            "dificultad": "Intermedio",
+            "topic": "Sistémica"
+        },
+        {
+            "pregunta": "¿Cuál es uno de los arcanos mayores en una baraja de Tarot?",
+            "opciones": ["El Juicio", "El Emperador", "La Fuerza", "La Rueda de la Fortuna"],
+            "respuesta_correcta": "El Juicio",
+            "dificultad": "Intermedio",
+            "topic": "Tarot"
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes no es una verdad noble en el Budismo?",
+            "opciones": ["La verdad del sufrimiento", "La verdad del deber", "La verdad de la extinción del sufrimiento", "La verdad del camino que conduce a la extinción del sufrimiento"],
+            "respuesta_correcta": "La verdad del deber",
+            "dificultad": "Intermedio",
+            "topic": "Budismo"
+        },
+        {
+            "pregunta": "¿Qué deidad principal se adora en el Hinduismo?",
+            "opciones": ["Buda", "Krishna", "Confucio", "Abraham"],
+            "respuesta_correcta": "Krishna",
+            "dificultad": "Intermedio",
+            "topic": "Hinduismo"
+        },
+        {
+            "pregunta": "¿Cuál es uno de los conceptos clave en el enfoque cognitivo-conductual?",
+            "opciones": ["Análisis de sueños", "Esquemas cognitivos", "Complejo de Edipo", "Inconsciente colectivo"],
+            "respuesta_correcta": "Esquemas cognitivos",
+            "dificultad": "Intermedio",
+            "topic": "Cognitivo-conductual"
+        },
+        {
+            "pregunta": "¿Quién propuso la teoría de los roles familiares en la terapia sistémica?",
+            "opciones": ["Virginia Satir", "Fritz Perls", "Salvador Minuchin", "Alfred Adler"],
+            "respuesta_correcta": "Salvador Minuchin",
+            "dificultad": "Intermedio",
+            "topic": "Sistémica"
+        }
+    ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el animal terrestre más grande del mundo?",
+      "opciones": ["Elefante", "Ballena Azul", "Jirafa", "León"],
+      "respuesta_correcta": "Elefante",
+      "dificultad": "Facil",
+      "topic": "Animales"
+    },
+    {
+      "pregunta": "¿En qué país se encuentra la Torre Eiffel?",
+      "opciones": ["Italia", "España", "Francia", "Alemania"],
+      "respuesta_correcta": "Francia",
+      "dificultad": "Facil",
+      "topic": "Geografía"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de España?",
+      "opciones": ["Londres", "Roma", "Madrid", "París"],
+      "respuesta_correcta": "Madrid",
+      "dificultad": "Facil",
+      "topic": "Geografía"
+    },
+    {
+      "pregunta": "¿Qué planeta es conocido como el planeta rojo?",
+      "opciones": ["Júpiter", "Venus", "Neptuno", "Marte"],
+      "respuesta_correcta": "Marte",
+      "dificultad": "Facil",
+      "topic": "Astronomía"
+    },
+    {
+      "pregunta": "¿Cuál es el río más largo del mundo?",
+      "opciones": ["Nilo", "Amazonas", "Yangtsé", "Misisipi"],
+      "respuesta_correcta": "Amazonas",
+      "dificultad": "Facil",
+      "topic": "Geografía"
+    },
+    {
+      "pregunta": "¿Qué instrumento se utiliza para medir la temperatura?",
+      "opciones": ["Termómetro", "Brújula", "Cronómetro", "Telescopio"],
+      "respuesta_correcta": "Termómetro",
+      "dificultad": "Facil",
+      "topic": "Ciencia"
+    },
+    {
+      "pregunta": "¿Cuántos continentes hay en el mundo?",
+      "opciones": ["3", "5", "7", "9"],
+      "respuesta_correcta": "7",
+      "dificultad": "Facil",
+      "topic": "Geografía"
+    },
+    {
+      "pregunta": "¿Quién escribió 'Don Quijote de la Mancha'?",
+      "opciones": ["Gabriel García Márquez", "Miguel de Cervantes", "Pablo Neruda", "Alejandro Dumas"],
+      "respuesta_correcta": "Miguel de Cervantes",
+      "dificultad": "Facil",
+      "topic": "Literatura"
+    },
+    {
+      "pregunta": "¿Qué se celebra el 14 de febrero?",
+      "opciones": ["Día de la Madre", "Día del Amigo", "Día del Padre", "Día de San Valentín"],
+      "respuesta_correcta": "Día de San Valentín",
+      "dificultad": "Facil",
+      "topic": "Cultura General"
+    },
+    {
+      "pregunta": "¿Cuántas patas tiene una araña?",
+      "opciones": ["4", "6", "8", "10"],
+      "respuesta_correcta": "8",
+      "dificultad": "Facil",
+      "topic": "Biología"
+    }
+  ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Quién es considerado el fundador del Budismo?",
+      "opciones": ["Confucio", "Buda", "Lao-tsé", "Mahoma"],
+      "respuesta_correcta": "Buda",
+      "dificultad": "Facil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes es uno de los pilares del Budismo?",
+      "opciones": ["La meditación", "La adoración a Brahma", "La veneración a Vishnu", "La peregrinación a Jerusalén"],
+      "respuesta_correcta": "La meditación",
+      "dificultad": "Facil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Cuál es el libro sagrado del Budismo?",
+      "opciones": ["El Corán", "El Tao Te Ching", "Las Enseñanzas de Confucio", "El Tripitaka"],
+      "respuesta_correcta": "El Tripitaka",
+      "dificultad": "Facil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿En qué país nació Buda?",
+      "opciones": ["La India", "China", "Japón", "Tíbet"],
+      "respuesta_correcta": "La India",
+      "dificultad": "Facil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Cuál es el significado de Nirvana en Budismo?",
+      "opciones": ["Iluminación", "Reencarnación", "Ciclo de nacimiento y muerte", "Meditación"],
+      "respuesta_correcta": "Iluminación",
+      "dificultad": "Facil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Quién es el dios principal en el Hinduismo?",
+      "opciones": ["Shiva", "Brahma", "Vishnu", "Ganesha"],
+      "respuesta_correcta": "Brahma",
+      "dificultad": "Facil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Cómo se llama el concepto de deber moral en el Hinduismo?",
+      "opciones": ["Dharma", "Karma", "Moksha", "Samsara"],
+      "respuesta_correcta": "Dharma",
+      "dificultad": "Facil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Cuál es la práctica de yoga más conocida en el Hinduismo?",
+      "opciones": ["Hatha Yoga", "Kundalini Yoga", "Bhakti Yoga", "Jnana Yoga"],
+      "respuesta_correcta": "Hatha Yoga",
+      "dificultad": "Facil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Cuál es el río sagrado para los hindúes?",
+      "opciones": ["Río Nilo", "Río Ganges", "Río Amazonas", "Río Rin"],
+      "respuesta_correcta": "Río Ganges",
+      "dificultad": "Facil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Qué festival hindú se celebra con colores y alegría?",
+      "opciones": ["Diwali", "Holi", "Navaratri", "Dussehra"],
+      "respuesta_correcta": "Holi",
+      "dificultad": "Facil",
+      "topic": "Hinduismo"
+    }
+  ]
+}{
+  "preguntas":[
+    {
+      "pregunta": "¿Quién fue el fundador del Budismo?",
+      "opciones": ["Buda", "Confucio", "Mahoma", "Krishna"],
+      "respuesta_correcta": "Buda",
+      "dificultad": "Dificil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Cuál es el nombre del texto sagrado principal del Hinduismo?",
+      "opciones": ["Bhagavad Gita", "Zend Avesta", "Tao Te Ching", "Dhammapada"],
+      "respuesta_correcta": "Bhagavad Gita",
+      "dificultad": "Dificil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Quién desarrolló la terapia cognitivo-conductual?",
+      "opciones": ["Sigmund Freud", "Albert Ellis", "Carl Jung", "Erik Erikson"],
+      "respuesta_correcta": "Albert Ellis",
+      "dificultad": "Dificil",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "¿Cuál de estos conceptos NO está asociado al Psicoanálisis?",
+      "opciones": ["Complejo de Edipo", "Inconsciente colectivo", "Yo, superyó y ello", "Resiliencia"],
+      "respuesta_correcta": "Resiliencia",
+      "dificultad": "Dificil",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Cuántas cartas conforman un mazo estándar de Tarot?",
+      "opciones": ["78", "52", "64", "36"],
+      "respuesta_correcta": "78",
+      "dificultad": "Dificil",
+      "topic": "Tarot"
+    }
+  ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Quién fundó la religión del budismo?",
+      "opciones": ["Confucio", "Buda", "Lao Tsé", "Mahoma"],
+      "respuesta_correcta": "Buda",
+      "dificultad": "Difícil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Cuál es el concepto hinduísta de 'Dharma'?",
+      "opciones": ["Rueda del Samsara", "Ciclo de Reencarnación", "Deber o Ley Universal", "Unidad Suprema"],
+      "respuesta_correcta": "Deber o Ley Universal",
+      "dificultad": "Difícil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Quién es considerado el padre del psicoanálisis?",
+      "opciones": ["Carl Gustav Jung", "Sigmund Freud", "Erik Erikson", "Albert Bandura"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Difícil",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Cuál es uno de los principales conceptos del enfoque cognitivo-conductual?",
+      "opciones": ["Complejo de Edipo", "Condicionamiento Clásico", "Arquetipos Colectivos", "Distorsiones Cognitivas"],
+      "respuesta_correcta": "Distorsiones Cognitivas",
+      "dificultad": "Difícil",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "¿Cuál es el arcano mayor que representa la transformación en el Tarot?",
+      "opciones": ["La Torre", "La Luna", "La Rueda de la Fortuna", "El Diablo"],
+      "respuesta_correcta": "La Torre",
+      "dificultad": "Difícil",
+      "topic": "Tarot"
+    },
+    {
+      "pregunta": "¿Qué se busca alcanzar a través de la meditación en la filosofía budista?",
+      "opciones": ["Buda interior", "Iluminación", "Control mental", "Ser uno con la naturaleza"],
+      "respuesta_correcta": "Iluminación",
+      "dificultad": "Difícil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "En la tradición hindú, ¿cuál es el nombre del libro sagrado que contiene himnos y mantras?",
+      "opciones": ["Vedas", "Bhagavad Gita", "Upanishads", "Ramayana"],
+      "respuesta_correcta": "Vedas",
+      "dificultad": "Difícil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes técnicas NO es comúnmente utilizada en terapias cognitivo-conductuales?",
+      "opciones": ["Exposición gradual", "Análisis de sueños", "Reestructuración cognitiva", "Tareas conductuales"],
+      "respuesta_correcta": "Análisis de sueños",
+      "dificultad": "Difícil",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "¿Qué concepto psicoanalítico se refiere al proceso mental por el cual se desplazan pensamientos o sentimientos perturbadores de la mente consciente a la inconsciente?",
+      "opciones": ["Transferencia", "Represión", "Proyección", "Sublimación"],
+      "respuesta_correcta": "Represión",
+      "dificultad": "Difícil",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "¿Cuál es el arcano mayor que simboliza la dualidad en el Tarot?",
+      "opciones": ["La Fuerza", "El Ermitaño", "La Templanza", "El Colgado"],
+      "respuesta_correcta": "La Templanza",
+      "dificultad": "Difícil",
+      "topic": "Tarot"
+    }
+  ]
+}{
+    "preguntas": [
+        {
+            "pregunta": "¿Cuál es el nombre del concepto budista que se refiere al sufrimiento inherente a la existencia?",
+            "opciones": ["Nirvana", "Anatta", "Dukkha", "Karma"],
+            "respuesta_correcta": "Dukkha",
+            "dificultad": "Dificil",
+            "topic": "Budismo"
+        },
+        {
+            "pregunta": "¿Cuál es uno de los principales dioses del panteón hindú asociado con la destrucción y la transformación?",
+            "opciones": ["Vishnu", "Brahma", "Shiva", "Krishna"],
+            "respuesta_correcta": "Shiva",
+            "dificultad": "Dificil",
+            "topic": "Hinduismo"
+        },
+        {
+            "pregunta": "Según la terapia cognitivo-conductual, ¿qué se busca identificar mediante el registro de pensamientos automáticos?",
+            "opciones": ["Emociones negativas", "Creencias irracionales", "Patrones de conducta", "Distorsiones cognitivas"],
+            "respuesta_correcta": "Distorsiones cognitivas",
+            "dificultad": "Dificil",
+            "topic": "Cognitivo-conductual"
+        },
+        {
+            "pregunta": "¿Quién es considerado el padre del psicoanálisis y creador de conceptos como el ello, el yo y el superyó?",
+            "opciones": ["Carl Jung", "Erik Erikson", "Sigmund Freud", "Alfred Adler"],
+            "respuesta_correcta": "Sigmund Freud",
+            "dificultad": "Dificil",
+            "topic": "Psicoanálisis"
+        },
+        {
+            "pregunta": "¿Cuál de los arcanos mayores del Tarot representa la transformación y el renacimiento?",
+            "opciones": ["La Torre", "El Diablo", "La Muerte", "El Mundo"],
+            "respuesta_correcta": "La Muerte",
+            "dificultad": "Dificil",
+            "topic": "Tarot"
+        }
+    ]
+}  {
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el nombre del ciclo de nacimiento, vida, muerte y renacimiento en el Budismo?",
+      "opciones": ["Samsara", "Karma", "Nirvana", "Dharma"],
+      "respuesta_correcta": "Samsara",
+      "dificultad": "Dificil",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "En el Hinduismo, ¿cuál es el nombre del concepto que representa el deber o la ley moral que rige la conducta de cada individuo?",
+      "opciones": ["Karma", "Dharma", "Moksha", "Brahman"],
+      "respuesta_correcta": "Dharma",
+      "dificultad": "Dificil",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Qué psicólogo es considerado el padre del enfoque cognitivo-conductual?",
+      "opciones": ["Carl Jung", "Sigmund Freud", "Albert Ellis", "Abraham Maslow"],
+      "respuesta_correcta": "Albert Ellis",
+      "dificultad": "Dificil",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "Según el Psicoanálisis, ¿cuál es la parte de la mente donde se encuentran los deseos impulsivos y primitivos?",
+      "opciones": ["El Yo", "El Superyó", "El Ello", "La Consciencia"],
+      "respuesta_correcta": "El Ello",
+      "dificultad": "Dificil",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "En el Tarot, ¿qué arcano mayor representa la transformación, muerte y renacimiento?",
+      "opciones": ["La Torre", "La Estrella", "La Muerte", "El Sol"],
+      "respuesta_correcta": "La Muerte",
+      "dificultad": "Dificil",
+      "topic": "Tarot"
+    }
+  ]
+}{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el objetivo principal de la meditación en el budismo?",
+      "opciones": ["Alcanzar la iluminación", "Desarrollar habilidades psicológicas", "Escapar de la realidad", "Conseguir bienes materiales"],
+      "respuesta_correcta": "Alcanzar la iluminación",
+      "dificultad": "Intermedio",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Qué dios principal se adora en el hinduismo?",
+      "opciones": ["Buda", "Jesús", "Vishnu", "Allah"],
+      "respuesta_correcta": "Vishnu",
+      "dificultad": "Intermedio",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Quién es considerado el padre del psicoanálisis?",
+      "opciones": ["Sigmund Freud", "Carl Rogers", "B. F. Skinner", "Abraham Maslow"],
+      "respuesta_correcta": "Sigmund Freud",
+      "dificultad": "Intermedio",
+      "topic": "Psicoanálisis"
+    },
+    {
+      "pregunta": "En la terapia cognitivo-conductual, ¿qué se busca modificar principalmente?",
+      "opciones": ["El inconsciente", "Los patrones de pensamiento y conducta", "Las emociones reprimidas", "La personalidad"],
+      "respuesta_correcta": "Los patrones de pensamiento y conducta",
+      "dificultad": "Intermedio",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "¿En qué se enfoca principalmente el enfoque humanista en psicología?",
+      "opciones": ["En la importancia de la infancia", "En el inconsciente", "En el presente y el potencial humano", "En el determinismo"],
+      "respuesta_correcta": "En el presente y el potencial humano",
+      "dificultad": "Intermedio",
+      "topic": "Humanismo"
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes no es un principio central del budismo?",
+      "opciones": ["Las Cuatro Nobles Verdades", "El Noble Óctuple Sendero", "La Trinidad", "La Reencarnación"],
+      "respuesta_correcta": "La Trinidad",
+      "dificultad": "Intermedio",
+      "topic": "Budismo"
+    },
+    {
+      "pregunta": "¿Quién desarrolló la teoría de la jerarquía de necesidades en psicología?",
+      "opciones": ["Sigmund Freud", "Carl Jung", "Abraham Maslow", "Erik Erikson"],
+      "respuesta_correcta": "Abraham Maslow",
+      "dificultad": "Intermedio",
+      "topic": "Humanismo"
+    },
+    {
+      "pregunta": "En el hinduismo, ¿qué es el karma?",
+      "opciones": ["El ciclo de nacimiento y muerte", "El destino predeterminado", "Las acciones y sus consecuencias", "El deber moral"],
+      "respuesta_correcta": "Las acciones y sus consecuencias",
+      "dificultad": "Intermedio",
+      "topic": "Hinduismo"
+    },
+    {
+      "pregunta": "¿Qué técnica terapéutica se utiliza comúnmente en la terapia cognitivo-conductual?",
+      "opciones": ["Hipnosis", "Exposición gradual", "Análisis de los sueños", "Respiración profunda"],
+      "respuesta_correcta": "Exposición gradual",
+      "dificultad": "Intermedio",
+      "topic": "Cognitivo-conductual"
+    },
+    {
+      "pregunta": "¿Cuál es uno de los conceptos principales del psicoanálisis freudiano?",
+      "opciones": ["Complejo de Edipo", "Complejo de Electra", "Complejo de inferioridad", "Complejo de superioridad"],
+      "respuesta_correcta": "Complejo de Edipo",
+      "dificultad": "Intermedio",
+      "topic": "Psicoanálisis"
+    }
+  ]
+}

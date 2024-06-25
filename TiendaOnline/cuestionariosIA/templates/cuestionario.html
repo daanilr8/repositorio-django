@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuestionario</title>
+    <script>
+        function submitForm(action) {
+            // Establecer la acción del formulario
+            document.getElementById('form1').action = action;
+            // Enviar el formulario
+            document.getElementById('form1').submit();
+        }
+    </script>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/inicio.css' %}">
+</head>
+<body>
+    <header>
+        <h1>¿Jugamos?</h1>
+    </header>
+    <main>
+        <section class="filosofia">
+            <div class="title">Filosofía</div>
+            <div class="botones">
+                <form id="form1" method="GET">
+                    <label>
+                        <input type="checkbox" name="topic" value="Budismo"> Budismo
+                    </label>
+                    <label>
+                        <input type="checkbox" name="topic" value="Hinduismo"> Hinduismo
+                    </label>
+                    <label>
+                        <input type="checkbox" name="topic" value="Cristianismo"> Cristianismo
+                    </label>
+                    <label>
+                        <input type="checkbox" name="topic" value="Nietzsche"> Nietzsche
+                    </label>
+                    <label>
+                        <input type="checkbox" name="topic" value="Platón"> Platón
+                    </label>
+            </div>
+        </section>
+        <section class="psicologia">
+            <div class="title">Psicología</div>
+            <div class="botones">
+                    <label>
+                        <input type="checkbox" name="topic" value="Cognitivo-conductual"> Cognitivo-conductual
+                    </label>
+                    <label>
+                        <input type="checkbox" name="topic" value="Psicoanálisis"> Psicoanálisis
+                    </label>
+                    <label>
+                        <input type="checkbox" name="topic" value="Humanismo"> Humanismo
+                    </label>
+                    <label>
+                        <input type="checkbox" name="topic" value="Sistémica"> Sistémica
+                    </label>
+                    <label>
+                        <input type="checkbox" name="topic" value="Transpersonal"> Transpersonal
+                    </label>
+            </div>
+        </section>
+        <section class="astrologia">
+            <div class="title">Astrología</div>
+            <div class="botones">
+                    <label>
+                        <input type="checkbox" name="topic" value="Signos Zodiacales"> Signos zodiacales
+                    </label>
+                    <label>
+                        <input type="checkbox" name="topic" value="Tarot"> Tarot
+                    </label>
+            </div>
+        </section>
+        <section class="añadir-topic">
+            <div class="title">Añadir Topic</div>
+            <div class="botones">
+                <label>
+                <select name="topic_extra" class="custom-select">
+                    <option value="Ninguno">Ninguno</option>
+                    {%for topic in topics_extra%}
+                    <option value="{{topic.nombre}}">{{topic.nombre}}</option>
+                    {%endfor%}
+                </select>
+                </label>
+                    <label>
+                        <input type="text" name="nuevo_topic">
+                    </label>
+                    <label>
+                        <button type="button" onclick="submitForm('/guardar_topic/')" name ="guardar">Nuevo Topic</button>
+                    </label>
+            </div>
+        </section>
+        
+        
+        <section class="tercera-seccion">
+                <select name="dificultad">
+                    <option value="Facil">Facil</option>
+                    <option value="Intermedio">Intermedio</option>
+                    <option value="Dificil">Dificil</option>
+                </select>
+                <button type="button" onclick="submitForm('/jugar/')" name ="empezar">Empezar cuestionario IA</button>
+                <button type="button" onclick="submitForm('/crear_cuestionario/')" name ="guardado">Empezar cuestionario guardado</button>
+                <button type="button" onclick="submitForm('/ranking/')" name ="ranking">Ver Ranking</button>
+            </form>
+        </section>
+    </main>
+</body>
+</html>

@@ -1,0 +1,36 @@
+{% load static %}
+<html>
+    <title> Selecciona tu cuenta </title>
+    <link rel="stylesheet" href="{% static 'css/seleccionar_jugador.css' %}">
+    <header><strong>Bienvenido al cuestionario</strong></header>
+        <body>
+            <main>
+            <section class="seleccionar">
+                <form method="GET" action="/comprobar/" >
+                <p><strong>Selecciona tu cuenta</strong></p>
+                <select name = "jugador">
+                    <option value="null"></option>
+                    {%for jugador in jugadores%}
+                    <option value = {{jugador.nombre}}>{{jugador.nombre}}</option>
+                    {%endfor%}
+                </select>
+                <p><strong>Contraseña</strong></p>
+                <input type="password" id="jugador_contraseña" name="jugador_contraseña" rows="15"cols=15>
+                <button type="submit">Empezar</button>
+                {%if error_contraseña %}
+                <p>La contraseña no es correcta</p>
+                {%endif%}
+            </section>
+            <section class="crear_jugador">
+                <p><strong> Crea tu cuenta</strong></p>
+                Nombre : <input type="text" name="jugador_creado_nombre" rows="15" cols="15">
+                Contraseña : <input type="password" id="contraseña" name="jugador_creado_contraseña" rows="15" cols="15">
+                <button type="submit">Crear cuenta</button> 
+                {%if error_crear %}
+                <p>El nombre de usuario ya está utilizado</p>
+                {%endif%}
+                </form>
+            </section>
+            </main>
+        </body>
+</html>
