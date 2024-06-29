@@ -15,17 +15,11 @@ from pathlib import Path
 import os
 import openai
 
-# Intentar encontrar el archivo .env y cargar las variables de entorno
-env_path = 'D:/supra/Documents/keyOpenAI'
-if env_path == "":
-    raise FileNotFoundError("No se encontró el archivo .env. Asegúrate de que está en el mismo directorio que el script.")
-
-print(f"Archivo .env encontrado en: {env_path}")
-
 # Cargar las variables de entorno del archivo .env
-load_dotenv()
+load_dotenv(dotenv_path='D:/supra/Documents/OpenAI/.env')
 
-api_key = os.getenv('OPENAI_API_KEY')
+keyOpenAI = os.getenv('OPENAI_API_KEY_SEGUNDA')
+api_key = keyOpenAI
 
 # Verificar si la API key se ha cargado correctamente
 if api_key is None:
