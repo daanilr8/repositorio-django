@@ -9,6 +9,11 @@ import unicodedata
 import random
 
 # Create your views here.
+
+def seleccionar_app(request):
+
+  return render(request,"seleccionar_app.html")
+  
 def inicio(request):
 
   return redirect('vista_seleccionar_jugador',error_contraseña=False,error_crear=False)

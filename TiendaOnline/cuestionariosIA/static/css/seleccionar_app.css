@@ -1,0 +1,72 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.section {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center; /* Alinea horizontalmente al centro */
+    align-items: center;     /* Alinea verticalmente al centro */
+}
+
+.right-section {
+    background-image: url('/static/images/fondo-cuestionario.png'); /* Ruta a la imagen */
+    background-size: cover; /* Hace que la imagen cubra todo el fondo */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.titulo1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px; /* Tamaño grande */
+    font-weight: 700;
+    margin-right: 20px;
+    width: 300px;
+    height: 50px;
+    padding: 10px;
+    background-color: rgb(10, 185, 92); /* Negro con 50% de transparencia */
+    text-align: center;
+    /*animation: colorChange 3s infinite alternate; Animación infinita */
+    color:black;
+    text-align: center;
+    border-style: solid;
+    border-color:black;
+    border-radius: 10px;
+}
+
+@keyframes colorChange {
+    0% {
+        color: #90ee90; /* Verde claro */
+    }
+    100% {
+        color: #8a2be2; /* Violeta oscuro */
+    }
+}
+.caja1 {
+    width: 500px;
+    height: 200px;
+    background-color: transparent;
+    color:white;
+    text-align: center;
+    margin-top: 250px;
+}
+
+.left-section {
+    background-image: url('/static/images/fondo-plantas.png'); /* Ruta a la imagen */
+    background-size: cover; /* Hace que la imagen cubra todo el fondo */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+}

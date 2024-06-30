@@ -23,6 +23,7 @@ from cuestionariosIA import views as views2
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('seleccionar_app/',views2.seleccionar_app),
     path('cuestiones/',views2.inicio),
     path('pedir_topic/',views2.pedir_topic_y_dificultad,name="vista_pedir_topic"),
     path('pedir_preguntas/',views2.pedir_preguntas),
