@@ -122,8 +122,8 @@ def rellenar_imagen(articulo):
     text_name = "funcionamiento.txt"
 
 
-    folder_path = "D:\\supra\\Documents\\ProyectoDjango\\TiendaOnline\\media"
-    folder_path_text = "D:\\supra\\Documents\\ProyectoDjango\\TiendaOnline"
+    folder_path = "D:\\supra\\Documents\\git-repositorio\\TiendaOnline\\media"
+    folder_path_text = "D:\\supra\\Documents\\git-repositorio\\TiendaOnline"
 
     # Crear la carpeta si no existe
     os.makedirs(folder_path, exist_ok=True)
